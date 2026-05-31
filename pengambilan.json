@@ -42,5 +42,9 @@
 {"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"21/05/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "370", "nama": "H AHMAD", "pangkalan":"SDS", "tanggal":"22/05/2026", "jenis":"TABUNGAN", "nilai":30000},
 {"token": "485", "nama": "HERU", "pangkalan":"CRC 1", "tanggal":"23/05/2026", "jenis":"TABUNGAN", "nilai":200000},
-{"token": "246", "nama": "KIKIN", "pangkalan":"NEWSTAR", "tanggal":"24/05/2026", "jenis":"PINJAMAN", "nilai":200000}
+{"token": "246", "nama": "KIKIN", "pangkalan":"NEWSTAR", "tanggal":"24/05/2026", "jenis":"PINJAMAN", "nilai":200000},
+{"token": "071", "nama": "ERIK", "pangkalan":"SK", "tanggal":"25/05/2026", "jenis":"TABUNGAN", "nilai":70000},
+{"token": "146", "nama": "JAJAT", "pangkalan":"ADC", "tanggal":"25/05/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "146", "nama": "JAJAT", "pangkalan":"ADC", "tanggal":"25/05/2026", "jenis":"PINJAMAN", "nilai":150000},
+{"token": "325", "nama": "ARIF", "pangkalan":"LF", "tanggal":"26/05/2026", "jenis":"TABUNGAN", "nilai":150000}
 ]
