@@ -66,5 +66,9 @@
 {"token": "603", "nama": "ABAS", "pangkalan":"PIONEER", "tanggal":"05/06/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "603", "nama": "ABAS", "pangkalan":"PIONEER", "tanggal":"05/06/2026", "jenis":"PINJAMAN", "nilai":250000},
 {"token": "059", "nama": "RENDI", "pangkalan":"JDC", "tanggal":"05/06/2026", "jenis":"TABUNGAN", "nilai":70000},
-{"token": "177", "nama": "SAKUY", "pangkalan":"EXIST", "tanggal":"17/05/2026", "jenis":"TABUNGAN", "nilai":700000}
+{"token": "177", "nama": "SAKUY", "pangkalan":"EXIST", "tanggal":"17/05/2026", "jenis":"TABUNGAN", "nilai":700000},
+{"token": "055", "nama": "DEDE ACIL", "pangkalan":"BATAVIA", "tanggal":"07/06/2026", "jenis":"TABUNGAN", "nilai":120000},
+{"token": "532", "nama": "KODEL", "pangkalan":"JRC", "tanggal":"07/06/2026", "jenis":"TABUNGAN", "nilai":220000},
+{"token": "692", "nama": "ALI CIMOY", "pangkalan":"DESTROY", "tanggal":"08/06/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "072", "nama": "H MULYADI", "pangkalan":"FAMILY", "tanggal":"08/06/2026", "jenis":"TABUNGAN", "nilai":400000}
 ]
