@@ -81,5 +81,15 @@
 {"token": "517", "nama": "INDRA", "pangkalan":"JRC", "tanggal":"11/06/2026", "jenis":"TABUNGAN", "nilai":190000},
 {"token": "711", "nama": "HOERUL", "pangkalan":"H2GU", "tanggal":"11/06/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "013", "nama": "HENDI", "pangkalan":"4G", "tanggal":"13/06/2026", "jenis":"TABUNGAN", "nilai":150000},
-{"token": "190", "nama": "MAULANA ABDUL AZIS", "pangkalan":"ARAHMAH", "tanggal":"", "jenis":"TABUNGAN", "nilai":130000}
+{"token": "190", "nama": "MAULANA ABDUL AZIS", "pangkalan":"ARAHMAH", "tanggal":"13/06/2026", "jenis":"TABUNGAN", "nilai":130000},
+{"token": "185", "nama": "BONDOL", "pangkalan":"H2GU", "tanggal":"14/06/2026", "jenis":"TABUNGAN", "nilai":580000},
+{"token": "733", "nama": "YUSUF GOJALI", "pangkalan":"EXIST", "tanggal":"14/06/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"15/06/2026", "jenis":"TABUNGAN", "nilai":70000},
+{"token": "236", "nama": "SIGIT", "pangkalan":"JRC", "tanggal":"15/06/2026", "jenis":"TABUNGAN", "nilai":320000},
+{"token": "567", "nama": "CIMONG", "pangkalan":"WHIFER", "tanggal":"15/06/2026", "jenis":"TABUNGAN", "nilai":450000},
+{"token": "261", "nama": "LAHEMP", "pangkalan":"DESTROY", "tanggal":"18/06/2026", "jenis":"TABUNGAN", "nilai":140000},
+{"token": "246", "nama": "KIKIN", "pangkalan":"NEWSTAR", "tanggal":"18/06/2026", "jenis":"PINJAMAN", "nilai":-50000},
+{"token": "524", "nama": "IJAL", "pangkalan":"BEDOG LOCOT", "tanggal":"19/06/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "623", "nama": "RANI", "pangkalan":"JRC", "tanggal":"19/06/2026", "jenis":"TABUNGAN", "nilai":180000},
 ]
+
