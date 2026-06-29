@@ -97,5 +97,9 @@
 {"token": "226", "nama": "CAMOY", "pangkalan":"JRC", "tanggal":"21/06/2026", "jenis":"PINJAMAN", "nilai":300000},
 {"token": "191", "nama": "H BABAS", "pangkalan":"JRC", "tanggal":"21/06/2026", "jenis":"TABUNGAN", "nilai":900000},
 {"token": "544", "nama": "ILHAM JHON", "pangkalan":"BDHAZ", "tanggal":"22/06/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "270", "nama": "ASEP", "pangkalan":"SAVANA", "tanggal":"23/06/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "636", "nama": "PEPEN CHAPEP", "pangkalan":"FREELANCE", "tanggal":"24/06/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "258", "nama": "HENDRI FEBRIAN", "pangkalan":"TR", "tanggal":"25/06/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "121", "nama": "SAHRUL R", "pangkalan":"SAHL TOUR", "tanggal":"28/06/2026", "jenis":"PINJAMAN", "nilai":200000},
 ]
 
