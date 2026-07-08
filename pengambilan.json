@@ -107,5 +107,9 @@
 {"token": "433", "nama": "NURDIN", "pangkalan":"SK", "tanggal":"02/07/2026", "jenis":"TABUNGAN", "nilai":150000},
 {"token": "754", "nama": "YADI", "pangkalan":"PANGRANGO HOLIDAY", "tanggal":"02/07/2026", "jenis":"TABUNGAN", "nilai":150000},
 {"token": "587", "nama": "AZRIL", "pangkalan":"GEROBAG", "tanggal":"04/07/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "266", "nama": "TEDI", "pangkalan":"IPPA", "tanggal":"04/07/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "816", "nama": "DEDE BUDIMAN", "pangkalan":"EXIST", "tanggal":"04/07/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "317", "nama": "JANI", "pangkalan":"JRC", "tanggal":"06/07/2026", "jenis":"TABUNGAN", "nilai":950000},
+{"token": "241", "nama": "BABAY", "pangkalan":"NNC", "tanggal":"06/07/2026", "jenis":"", "nilai":300000},
 ]
 

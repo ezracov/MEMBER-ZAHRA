@@ -582,7 +582,7 @@
 {"token" : "585", "nama": "YAKUB", "pangkalan": "FAMILY HABIBI"},
 {"token" : "586", "nama": "P ANWAR", "pangkalan": "P2C"},
 {"token" : "587", "nama": "AZRIL", "pangkalan": "GEROBAG"},
-{"token" : "588", "nama": "RIDWAN IDIS", "pangkalan": "ANAZMA"},
+{"token" : "588", "nama": "RIDWAN", "pangkalan": "ANAZMA"},
 {"token" : "589", "nama": "AZIS", "pangkalan": "BBS"},
 {"token" : "590", "nama": "YAYA COPAY", "pangkalan": "BBS"},
 {"token" : "591", "nama": "KENTUNG", "pangkalan": "SEKTOR C"},
@@ -850,6 +850,16 @@
 {"token" : "847", "nama": "DEN DEN", "pangkalan": "ALMAWADA"},
 {"token" : "848", "nama": "HASAN", "pangkalan": "ARAHIM"},
 {"token" : "849", "nama": "SAPRI", "pangkalan": "ANAZMA"},
-{"token" : "639", "nama": "YAHYA", "pangkalan": "CRC 2"}
+{"token" : "639", "nama": "YAHYA", "pangkalan": "CRC 2"},
+{"token" : "853", "nama": "INDRA ABU NAWAL", "pangkalan": "CRC 4"},
+{"token" : "856", "nama": "LINTONG", "pangkalan": "SHK"},
+{"token" : "858", "nama": "OKIM", "pangkalan": "CRC 2"},
+{"token" : "855", "nama": "DIDI", "pangkalan": "WDS"},
+{"token" : "854", "nama": "RUSLI", "pangkalan": "BDHAZ"},
+{"token" : "857", "nama": "ARI", "pangkalan": "PIONEER"},
+{"token" : "860", "nama": "ENDANG", "pangkalan": "BBS"},
+{"token" : "859", "nama": "EDWIN", "pangkalan": "SAHL TOUR"},
+{"token" : "861", "nama": "KASIM", "pangkalan": "FREELANCE"},
+{"token" : "862", "nama": "DANIEL", "pangkalan": "JNT PRO"}
 ]
 
