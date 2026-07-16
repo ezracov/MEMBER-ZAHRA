@@ -2271,7 +2271,7 @@
 {"token": "741", "nama": "H SAGIR", "pangkalan":"H2GU", "tanggal":"13/07/2026", "tabungan":200000, "bonus":1},
 {"token": "110", "nama": "H DASENG", "pangkalan":"JRC", "tanggal":"14/07/2026", "tabungan":0, "bonus":1},
 {"token": "263", "nama": "JAYA", "pangkalan":"NNC", "tanggal":"14/07/2026", "tabungan":250000, "bonus":1},
-{"token": "662", "nama": "BENI", "pangkalan":"IPPA", "tanggal":"14/07/2026", "tabungan": , "bonus":1},
+{"token": "662", "nama": "BENI", "pangkalan":"IPPA", "tanggal":"14/07/2026", "tabungan":0, "bonus":1},
 {"token": "536", "nama": "DAYAT", "pangkalan":"SGA", "tanggal":"14/07/2026", "tabungan":0, "bonus":1},
 {"token": "453", "nama": "INDRA BAMBOW", "pangkalan":"BDHAZ", "tanggal":"14/07/2026", "tabungan":0, "bonus":1},
 {"token": "442", "nama": "DEDI SETIAWAN", "pangkalan":"BEDOG LOCOT", "tanggal":"14/07/2026", "tabungan":0, "bonus":1},
