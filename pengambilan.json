@@ -83,7 +83,7 @@
 {"token": "013", "nama": "HENDI", "pangkalan":"4G", "tanggal":"13/06/2026", "jenis":"TABUNGAN", "nilai":150000},
 {"token": "190", "nama": "MAULANA ABDUL AZIS", "pangkalan":"ARAHMAH", "tanggal":"13/06/2026", "jenis":"TABUNGAN", "nilai":130000},
 {"token": "185", "nama": "BONDOL", "pangkalan":"H2GU", "tanggal":"14/06/2026", "jenis":"TABUNGAN", "nilai":580000},
-{"token": "733", "nama": "YUSUF GOJALI", "pangkalan":"EXIST", "tanggal":"14/06/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "733", "nama": "YUSUF", "pangkalan":"EXIST", "tanggal":"14/06/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"15/06/2026", "jenis":"TABUNGAN", "nilai":70000},
 {"token": "236", "nama": "SIGIT", "pangkalan":"JRC", "tanggal":"15/06/2026", "jenis":"TABUNGAN", "nilai":320000},
 {"token": "567", "nama": "CIMONG", "pangkalan":"WHIFER", "tanggal":"15/06/2026", "jenis":"TABUNGAN", "nilai":450000},
@@ -118,6 +118,14 @@
 {"token": "566", "nama": "AYAH BADAR", "pangkalan":"WDS", "tanggal":"16/07/2026", "jenis":"TABUNGAN", "nilai":330000},
 {"token": "349", "nama": "DEDE MR", "pangkalan":"BATAVIA", "tanggal":"17/07/2026", "jenis":"TABUNGAN", "nilai":30000},
 {"token": "233", "nama": "RIZKI OPIK", "pangkalan":"PPGC", "tanggal":"18/07/2026", "jenis":"TABUNGAN", "nilai":50000},
-{"token": "092", "nama": "JACK", "pangkalan":"JRC", "tanggal":"18/07/2026", "jenis":"TABUNGAN", "nilai":500000}
+{"token": "092", "nama": "JACK", "pangkalan":"JRC", "tanggal":"18/07/2026", "jenis":"TABUNGAN", "nilai":500000},
+{"token": "921", "nama": "USEP", "pangkalan":"SEKTOR C", "tanggal":"19/07/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "858", "nama": "OKIM", "pangkalan":"CRC 2", "tanggal":"19/07/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "917", "nama": "P CECEP", "pangkalan":"RANTAU", "tanggal":"19/07/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "694", "nama": "CEPOT", "pangkalan":"JRC", "tanggal":"20/07/2026", "jenis":"TABUNGAN", "nilai":800000},
+{"token": "826", "nama": "MOHAMAD JAELANI", "pangkalan":"DESTROY", "tanggal":"20/07/2026", "jenis":"TABUNGAN", "nilai":20000},
+{"token": "121", "nama": "SAHRUL R", "pangkalan":"SAHL TOUR", "tanggal":"21/07/2026", "jenis":"PINJAMAN", "nilai":-50000},
+{"token": "990", "nama": "BAYEN", "pangkalan":"BDHAZ", "tanggal":"21/07/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "676", "nama": "DASEP", "pangkalan":"KGWM", "tanggal":"21/07/2026", "jenis":"TABUNGAN", "nilai":50000}
 ]
 
