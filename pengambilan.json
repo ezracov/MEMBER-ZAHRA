@@ -126,6 +126,15 @@
 {"token": "826", "nama": "MOHAMAD JAELANI", "pangkalan":"DESTROY", "tanggal":"20/07/2026", "jenis":"TABUNGAN", "nilai":20000},
 {"token": "121", "nama": "SAHRUL R", "pangkalan":"SAHL TOUR", "tanggal":"21/07/2026", "jenis":"PINJAMAN", "nilai":-50000},
 {"token": "990", "nama": "BAYEN", "pangkalan":"BDHAZ", "tanggal":"21/07/2026", "jenis":"TABUNGAN", "nilai":50000},
-{"token": "676", "nama": "DASEP", "pangkalan":"KGWM", "tanggal":"21/07/2026", "jenis":"TABUNGAN", "nilai":50000}
+{"token": "676", "nama": "DASEP", "pangkalan":"KGWM", "tanggal":"21/07/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "832", "nama": "PYTOK", "pangkalan":"ADC", "tanggal":"23/07/2026", "jenis":"TABUNGAN", "nilai":380000},
+{"token": "424", "nama": "KIKI", "pangkalan":"FAMILY", "tanggal":"23/07/2026", "jenis":"TABUNGAN", "nilai":70000},
+{"token": "645", "nama": "FAWAZ", "pangkalan":"NNC", "tanggal":"24/07/2026", "jenis":"TABUNGAN", "nilai":520000},
+{"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"24/07/2026", "jenis":"TABUNGAN", "nilai":100000},
+{"token": "543", "nama": "RINI", "pangkalan":"IPPA", "tanggal":"24/07/2026", "jenis":"TABUNGAN", "nilai":130000},
+{"token": "525", "nama": "SAGAL", "pangkalan":"ALFARUQ", "tanggal":"25/07/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "524", "nama": "IJAL", "pangkalan":"BEDOG LOCOT", "tanggal":"26/07/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "454", "nama": "EMIN", "pangkalan":"SEKTOR C", "tanggal":"26/07/2026", "jenis":"TABUNGAN", "nilai":1200000},
+{"token": "956", "nama": "ASEP ICIH", "pangkalan":"P2C", "tanggal":"27/07/2026", "jenis":"TABUNGAN", "nilai":100000}
 ]
 
