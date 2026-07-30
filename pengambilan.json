@@ -135,6 +135,9 @@
 {"token": "525", "nama": "SAGAL", "pangkalan":"ALFARUQ", "tanggal":"25/07/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "524", "nama": "IJAL", "pangkalan":"BEDOG LOCOT", "tanggal":"26/07/2026", "jenis":"TABUNGAN", "nilai":250000},
 {"token": "454", "nama": "EMIN", "pangkalan":"SEKTOR C", "tanggal":"26/07/2026", "jenis":"TABUNGAN", "nilai":1200000},
-{"token": "956", "nama": "ASEP ICIH", "pangkalan":"P2C", "tanggal":"27/07/2026", "jenis":"TABUNGAN", "nilai":100000}
+{"token": "956", "nama": "ASEP ICIH", "pangkalan":"P2C", "tanggal":"27/07/2026", "jenis":"TABUNGAN", "nilai":100000},
+{"token": "1062", "nama": "OJON", "pangkalan":"FREELANCE", "tanggal":"28/07/2026", "jenis":"TABUNGAN", "nilai":120000},
+{"token": "211", "nama": "ALDO", "pangkalan":"IPPA", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "180", "nama": "RAYAN", "pangkalan":"BET ASPUR", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":25000}
 ]
 
