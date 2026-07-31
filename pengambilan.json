@@ -138,6 +138,8 @@
 {"token": "956", "nama": "ASEP ICIH", "pangkalan":"P2C", "tanggal":"27/07/2026", "jenis":"TABUNGAN", "nilai":100000},
 {"token": "1062", "nama": "OJON", "pangkalan":"FREELANCE", "tanggal":"28/07/2026", "jenis":"TABUNGAN", "nilai":120000},
 {"token": "211", "nama": "ALDO", "pangkalan":"IPPA", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":50000},
-{"token": "180", "nama": "RAYAN", "pangkalan":"BET ASPUR", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":25000}
+{"token": "180", "nama": "RAYAN", "pangkalan":"BET ASPUR", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":25000},
+{"token": "055", "nama": "DEDE ACIL", "pangkalan":"BATAVIA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":260000},
+{"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":125000}
 ]
 
