@@ -140,6 +140,9 @@
 {"token": "211", "nama": "ALDO", "pangkalan":"IPPA", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "180", "nama": "RAYAN", "pangkalan":"BET ASPUR", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":25000},
 {"token": "055", "nama": "DEDE ACIL", "pangkalan":"BATAVIA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":260000},
-{"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":125000}
+{"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":125000},
+{"token": "923", "nama": "BOYAN", "pangkalan":"ALAKEFEK", "tanggal":"01/08/2026", "jenis":"TABUNGAN", "nilai":275000},
+{"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"01/08/2026", "jenis":"CASH", "nilai":50000},
+{"token": "131", "nama": "ZAKI", "pangkalan":"ALHALIJI", "tanggal":"02/08/2026", "jenis":"TABUNGAN", "nilai":25000}
 ]
 
