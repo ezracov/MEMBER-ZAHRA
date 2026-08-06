@@ -143,6 +143,9 @@
 {"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":125000},
 {"token": "923", "nama": "BOYAN", "pangkalan":"ALAKEFEK", "tanggal":"01/08/2026", "jenis":"TABUNGAN", "nilai":275000},
 {"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"01/08/2026", "jenis":"CASH", "nilai":50000},
-{"token": "131", "nama": "ZAKI", "pangkalan":"ALHALIJI", "tanggal":"02/08/2026", "jenis":"TABUNGAN", "nilai":25000}
+{"token": "131", "nama": "ZAKI", "pangkalan":"ALHALIJI", "tanggal":"02/08/2026", "jenis":"TABUNGAN", "nilai":25000},
+{"token": "245", "nama": "ABDUL ABU YUSUF", "pangkalan":"FREELANCE", "tanggal":"04/08/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "191", "nama": "H BABAS", "pangkalan":"JRC", "tanggal":"04/08/2026", "jenis":"TABUNGAN", "nilai":1625000},
+{"token": "123", "nama": "CIWOK", "pangkalan":"JDC", "tanggal":"05/08/2026", "jenis":"TABUNGAN", "nilai":150000}
 ]
 
