@@ -81,6 +81,31 @@
         .stats-mini { 
             display: flex; justify-content: space-between; 
             background: rgba(255,255,255,0.1); padding: 8px 12px; border-radius: 10px; font-size: 0.7rem; 
+            margin-bottom: 12px;
+        }
+
+        /* --- STYLE TOMBOL PERINGKAT --- */
+        .btn-peringkat {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            width: 100%;
+            padding: 10px;
+            background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 0.85rem;
+            font-weight: 700;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(243, 156, 18, 0.3);
+            transition: all 0.2s ease;
+            box-sizing: border-box;
+        }
+
+        .btn-peringkat:hover {
+            opacity: 0.95;
+            transform: translateY(-1px);
         }
 
         /* --- BAGIAN SCROLLABLE CONTENT --- */
@@ -140,6 +165,11 @@
                     <span>Dapat Bonus: <b id="cnt-bon">0</b></span>
                     <span>Tanpa Bonus: <b id="cnt-nobon">0</b></span>
                 </div>
+
+                <!-- TOMBOL LIHAT PERINGKAT -->
+                <a href="https://peringkat-zahra-sahi.netlify.app" target="_blank" rel="noopener noreferrer" class="btn-peringkat">
+                    🏆 Lihat Peringkat
+                </a>
             </div>
         </div>
 
