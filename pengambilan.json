@@ -36,7 +36,7 @@
 {"token": "346", "nama": "JUNAEDI", "pangkalan":"IPPA", "tanggal":"13/05/2026", "jenis":"TABUNGAN", "nilai":150000},
 {"token": "086", "nama": "ABU SULTON", "pangkalan":"BMG", "tanggal":"15/05/2026", "jenis":"TABUNGAN", "nilai":250000},
 {"token": "198", "nama": "MONCES", "pangkalan":"ARRAHIM", "tanggal":"17/05/2026", "jenis":"TABUNGAN", "nilai":250000},
-{"token": "468", "nama": "CHAPEP", "pangkalan":"PARTNER", "tanggal":"18/05/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "468", "nama": "CHAPEP", "pangkalan":"FATNER FAMILY", "tanggal":"18/05/2026", "jenis":"TABUNGAN", "nilai":400000},
 {"token": "376", "nama": "RUSDI", "pangkalan":"JDC", "tanggal":"19/05/2026", "jenis":"TABUNGAN", "nilai":400000},
 {"token": "567", "nama": "CIMONG", "pangkalan":"WHIFER", "tanggal":"20/05/2026", "jenis":"TABUNGAN", "nilai":120000},
 {"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"21/05/2026", "jenis":"TABUNGAN", "nilai":200000},
@@ -101,7 +101,7 @@
 {"token": "636", "nama": "PEPEN CHAPEP", "pangkalan":"FREELANCE", "tanggal":"24/06/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "258", "nama": "HENDRI FEBRIAN", "pangkalan":"TR", "tanggal":"25/06/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "121", "nama": "SAHRUL R", "pangkalan":"SAHL TOUR", "tanggal":"28/06/2026", "jenis":"PINJAMAN", "nilai":200000},
-{"token": "468", "nama": "CHAPEP", "pangkalan":"PARTNER", "tanggal":"29/06/2026", "jenis":"PINJAMAN", "nilai":50000},
+{"token": "468", "nama": "CHAPEP", "pangkalan":"FATNER FAMILY", "tanggal":"29/06/2026", "jenis":"PINJAMAN", "nilai":50000},
 {"token": "385", "nama": "JENAL KACANG", "pangkalan":"SAVANA", "tanggal":"30/06/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "337", "nama": "UJANG SAEFUDIN", "pangkalan":"SAHL TOUR", "tanggal":"01/07/2026", "jenis":"TABUNGAN", "nilai":60000},
 {"token": "433", "nama": "NURDIN", "pangkalan":"SK", "tanggal":"02/07/2026", "jenis":"TABUNGAN", "nilai":150000},
@@ -152,6 +152,13 @@
 {"token": "627", "nama": "ANDRI", "pangkalan":"JABAL AHDAR", "tanggal":"07/08/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "1159", "nama": "IWAN S", "pangkalan":"ALAKEFEK", "tanggal":"09/08/2026", "jenis":"TABUNGAN", "nilai":100000},
 {"token": "005", "nama": "KOBE", "pangkalan":"FAMILY HABIBI", "tanggal":"10/08/2026", "jenis":"TABUNGAN", "nilai":150000},
-{"token": "013", "nama": "HENDI", "pangkalan":"4G", "tanggal":"10/08/2026", "jenis":"TABUNGAN", "nilai":100000}
+{"token": "013", "nama": "HENDI", "pangkalan":"4G", "tanggal":"10/08/2026", "jenis":"TABUNGAN", "nilai":100000},
+{"token": "733", "nama": "YUSUF", "pangkalan":"EXIST", "tanggal":"12/08/2026", "jenis":"TABUNGAN", "nilai":650000},
+{"token": "100", "nama": "CIWOK", "pangkalan":"WRC", "tanggal":"12/08/2026", "jenis":"TABUNGAN", "nilai":30000},
+{"token": "100", "nama": "CIWOK", "pangkalan":"WRC", "tanggal":"12/08/2026", "jenis":"PINJAMAN", "nilai":120000},
+{"token": "894", "nama": "UDEN", "pangkalan":"BDHAZ", "tanggal":"13/08/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "532", "nama": "KODEL", "pangkalan":"JRC", "tanggal":"15/08/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "1079", "nama": "ARIS", "pangkalan":"IGP", "tanggal":"16/08/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "1026", "nama": "ADI SADONG", "pangkalan":"FAMILY", "tanggal":"16/08/2026", "jenis":"TABUNGAN", "nilai":650000}
 ]
 
