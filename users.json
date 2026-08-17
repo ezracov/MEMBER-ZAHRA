@@ -252,7 +252,7 @@
 {"token" : "251", "nama": "BAKARA", "pangkalan": "BGC"},
 {"token" : "252", "nama": "KINOY", "pangkalan": "X ONE"},
 {"token" : "253", "nama": "UJ", "pangkalan": "IPPA"},
-{"token" : "254", "nama": "COMET", "pangkalan": "PIONEER"},
+{"token" : "254", "nama": "COMET", "pangkalan": "SAVANA"},
 {"token" : "255", "nama": "IWAN", "pangkalan": "CRC 2"},
 {"token" : "256", "nama": "KUMIN", "pangkalan": "CRC 1"},
 {"token" : "257", "nama": "DORIP", "pangkalan": "BGC"},
@@ -667,7 +667,7 @@
 {"token" : "668", "nama": "IPANG", "pangkalan": "ALBANTANI"},
 {"token" : "669", "nama": "HERI PANGSI", "pangkalan": "FREELANCE"},
 {"token" : "670", "nama": "IRWANSYAH", "pangkalan": "SK"},
-{"token" : "671", "nama": "TEGUH", "pangkalan": "BBS"},
+{"token" : "671", "nama": "TEGUH", "pangkalan": "FATNER FAMILY"},
 {"token" : "672", "nama": "HAMZAH", "pangkalan": "CRC 1"},
 {"token" : "673", "nama": "SOLEHUDIN", "pangkalan": "PPGC"},
 {"token" : "674", "nama": "TETEN", "pangkalan": "LF"},
@@ -789,7 +789,7 @@
 {"token" : "790", "nama": "JAENUDIN", "pangkalan": "ALFARUQ"},
 {"token" : "791", "nama": "KHOLID", "pangkalan": "ALAKEFEK"},
 {"token" : "792", "nama": "H DAI", "pangkalan": "PPGC"},
-{"token" : "793", "nama": "RAMA", "pangkalan": "NNC"},
+{"token" : "793", "nama": "RAMA", "pangkalan": "FREELANCE"},
 {"token" : "794", "nama": "RUSDI", "pangkalan": "FAMILY HABIBI"},
 {"token" : "795", "nama": "BUBUN", "pangkalan": "FAMILY PONCORAN"},
 {"token" : "796", "nama": "AGOY", "pangkalan": "CRC 2"},
@@ -1196,6 +1196,7 @@
 {"token" : "1198", "nama": "SIDIK PERMANA", "pangkalan": "ALFATHAN"},
 {"token" : "1200", "nama": "PA DEDI", "pangkalan": "FREELANCE"},
 {"token" : "1201", "nama": "ANGGA", "pangkalan": "JDC"},
-{"token" : "1184", "nama": "ANIP", "pangkalan": "NCI"}
+{"token" : "1184", "nama": "ANIP", "pangkalan": "NCI"},
+{"token" : "1202", "nama": "KEBEL", "pangkalan": "SK"}
 ]
 
