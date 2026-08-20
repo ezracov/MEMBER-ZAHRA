@@ -159,6 +159,13 @@
 {"token": "894", "nama": "UDEN", "pangkalan":"BDHAZ", "tanggal":"13/08/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "532", "nama": "KODEL", "pangkalan":"JRC", "tanggal":"15/08/2026", "jenis":"TABUNGAN", "nilai":400000},
 {"token": "1079", "nama": "ARIS", "pangkalan":"IGP", "tanggal":"16/08/2026", "jenis":"TABUNGAN", "nilai":150000},
-{"token": "1026", "nama": "ADI SADONG", "pangkalan":"FAMILY", "tanggal":"16/08/2026", "jenis":"TABUNGAN", "nilai":650000}
+{"token": "1026", "nama": "ADI SADONG", "pangkalan":"FAMILY", "tanggal":"16/08/2026", "jenis":"TABUNGAN", "nilai":650000},
+{"token": "467", "nama": "IWA", "pangkalan":"SAHL TOUR", "tanggal":"17/08/2026", "jenis":"TABUNGAN", "nilai":120000},
+{"token": "121", "nama": "SAHRUL R", "pangkalan":"SAHL TOUR", "tanggal":"17/08/2026", "jenis":"PINJAMAN", "nilai":-100000},
+{"token": "212", "nama": "RINA", "pangkalan":"IPPA", "tanggal":"18/08/2026", "jenis":"TABUNGAN", "nilai":500000},
+{"token": "748", "nama": "H USMAN", "pangkalan":"JRC", "tanggal":"18/08/2026", "jenis":"TABUNGAN", "nilai":630000},
+{"token": "974", "nama": "ASEP HAMZAH", "pangkalan":"FAMILY ", "tanggal":"18/08/2026", "jenis":"TABUNGAN", "nilai":350000},
+{"token": "209", "nama": "YADIN", "pangkalan":"CRC 2", "tanggal":"19/08/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "533", "nama": "P HERI", "pangkalan":"ADC", "tanggal":"20/08/2026", "jenis":"CASH", "nilai":150000}
 ]
 
