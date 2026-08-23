@@ -12,7 +12,7 @@
 {"token": "086", "nama": "ABU SULTON", "pangkalan":"BMG", "tanggal":"15/04/2026", "jenis":"TABUNGAN", "nilai":350000},
 {"token": "325", "nama": "ARIF", "pangkalan":"LF", "tanggal":"16/04/2026", "jenis":"TABUNGAN", "nilai":250000},
 {"token": "323", "nama": "DOYOK", "pangkalan":"BDHAZ", "tanggal":"16/04/2026", "jenis":"TABUNGAN", "nilai":200000},
-{"token": "213", "nama": "AGUS", "pangkalan":"PARTNER", "tanggal":"16/04/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "213", "nama": "AGUS", "pangkalan":"CRC 2", "tanggal":"16/04/2026", "jenis":"TABUNGAN", "nilai":300000},
 {"token": "340", "nama": "ZAKI", "pangkalan":"JDC", "tanggal":"17/04/2026", "jenis":"TABUNGAN", "nilai":300000},
 {"token": "122", "nama": "DEMI", "pangkalan":"SAVANA", "tanggal":"18/04/2026", "jenis":"TABUNGAN", "nilai":1500000},
 {"token": "130", "nama": "OSCAR", "pangkalan":"PPGC", "tanggal":"19/04/2026", "jenis":"TABUNGAN", "nilai":100000},
@@ -166,6 +166,13 @@
 {"token": "748", "nama": "H USMAN", "pangkalan":"JRC", "tanggal":"18/08/2026", "jenis":"TABUNGAN", "nilai":630000},
 {"token": "974", "nama": "ASEP HAMZAH", "pangkalan":"FAMILY ", "tanggal":"18/08/2026", "jenis":"TABUNGAN", "nilai":350000},
 {"token": "209", "nama": "YADIN", "pangkalan":"CRC 2", "tanggal":"19/08/2026", "jenis":"TABUNGAN", "nilai":50000},
-{"token": "533", "nama": "P HERI", "pangkalan":"ADC", "tanggal":"20/08/2026", "jenis":"CASH", "nilai":150000}
+{"token": "533", "nama": "P HERI", "pangkalan":"ADC", "tanggal":"20/08/2026", "jenis":"CASH", "nilai":150000},
+{"token": "1086", "nama": "CIPONG", "pangkalan":"OASIS", "tanggal":"20/08/2026", "jenis":"TABUNGAN", "nilai":40000},
+{"token": "354", "nama": "IRFAN", "pangkalan":"IPPA", "tanggal":"20/08/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "764", "nama": "FAISAL", "pangkalan":"BDHAZ", "tanggal":"21/08/2026", "jenis":"TABUNGAN", "nilai":350000},
+{"token": "764", "nama": "FAISAL", "pangkalan":"BDHAZ", "tanggal":"21/08/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "063", "nama": "H ZAELANI", "pangkalan":"BLOK M", "tanggal":"22/08/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "831", "nama": "FERI", "pangkalan":"SDS", "tanggal":"22/08/2026", "jenis":"TABUNGAN", "nilai":110000},
+{"token": "509", "nama": "JAFAR", "pangkalan":"JABAL AHDAR", "tanggal":"23/08/2026", "jenis":"TABUNGAN", "nilai":100000}
 ]
 

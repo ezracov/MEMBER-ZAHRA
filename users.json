@@ -211,7 +211,7 @@
 {"token" : "210", "nama": "FARIDA", "pangkalan": "FREELANCE"},
 {"token" : "211", "nama": "ALDO", "pangkalan": "IPPA"},
 {"token" : "212", "nama": "RINA", "pangkalan": "IPPA"},
-{"token" : "213", "nama": "AGUS", "pangkalan": "PARTNER"},
+{"token" : "213", "nama": "AGUS", "pangkalan": "CRC 2"},
 {"token" : "214", "nama": "OMEN", "pangkalan": "BEDOG LOCOT"},
 {"token" : "215", "nama": "NURJEN", "pangkalan": "FATNER FAMILY"},
 {"token" : "216", "nama": "IPANK", "pangkalan": "PARTNER"},
@@ -872,7 +872,7 @@
 {"token" : "873", "nama": "IWAN CIWOK", "pangkalan": "SEXY"},
 {"token" : "874", "nama": "MAS SULTON", "pangkalan": "MANDIRI SAFAR"},
 {"token" : "875", "nama": "MUSTADI", "pangkalan": "GN JATI"},
-{"token" : "876", "nama": "HENDRA GUNAWAN", "pangkalan": "ANAZMA"},
+{"token" : "876", "nama": "HENDRA GUNAWAN EX ANAZMA", "pangkalan": "FREELANCE"},
 {"token" : "877", "nama": "UJEN", "pangkalan": "FREELANCE"},
 {"token" : "878", "nama": "AYI", "pangkalan": "GHIBET"},
 {"token" : "879", "nama": "H DIDIN ", "pangkalan": "FAMILY HABIBI"},
@@ -908,7 +908,7 @@
 {"token" : "910", "nama": "ALFI", "pangkalan": "JDC"},
 {"token" : "911", "nama": "ERSYAD", "pangkalan": "HALLA INDONESIA"},
 {"token" : "912", "nama": "NANDAR", "pangkalan": "FAMILY GOLF"},
-{"token" : "913", "nama": "GOJALI", "pangkalan": "BL"},
+{"token" : "913", "nama": "GOJALI", "pangkalan": "BEDOG LOCOT"},
 {"token" : "914", "nama": "TORIK", "pangkalan": "FAMILY PONCORAN"},
 {"token" : "915", "nama": "DADAN SAFIRA", "pangkalan": "FREELANCE"},
 {"token" : "916", "nama": "FARID", "pangkalan": "CRC 1"},
@@ -1212,6 +1212,15 @@
 {"token" : "1206", "nama": "GALIH", "pangkalan": "KB"},
 {"token" : "1205", "nama": "JENAL", "pangkalan": "X ONE"},
 {"token" : "1211", "nama": "ALI", "pangkalan": "HPI"},
-{"token" : "1212", "nama": "H AHMAD", "pangkalan": "KGWM"}
+{"token" : "1212", "nama": "H AHMAD", "pangkalan": "KGWM"},
+{"token" : "1217", "nama": "DAHLAN", "pangkalan": "BMG"},
+{"token" : "1218", "nama": "AFANDI", "pangkalan": "JKT"},
+{"token" : "1225", "nama": "HERDI", "pangkalan": "TR"},
+{"token" : "1224", "nama": "HAIKAL", "pangkalan": "4G"},
+{"token" : "1221", "nama": "RIAN", "pangkalan": "EXIST"},
+{"token" : "1223", "nama": "TATANG", "pangkalan": "BEDOG LOCOT"},
+{"token" : "1220", "nama": "FARHAN", "pangkalan": "IGP"},
+{"token" : "1219", "nama": "HARYANTO", "pangkalan": "AMANAH HOLIDAY"},
+{"token" : "1222", "nama": "MARWAN", "pangkalan": "SDS"}
 ]
 
