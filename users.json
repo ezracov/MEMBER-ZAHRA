@@ -117,7 +117,7 @@
 {"token" : "116", "nama": "JAMAL", "pangkalan": "EXIST"},
 {"token" : "117", "nama": "JAMIL ex PPGC", "pangkalan": "MS"},
 {"token" : "118", "nama": "ASUN", "pangkalan": "BDHAZ"},
-{"token" : "119", "nama": "MUMO", "pangkalan": "BET ASPUR"},
+{"token" : "119", "nama": "MUMU", "pangkalan": "BET ASPUR"},
 {"token" : "120", "nama": "AYI SAEPUDIN", "pangkalan": "ANAZMA"},
 {"token" : "121", "nama": "SAHRUL R", "pangkalan": "SAHL TOUR"},
 {"token" : "122", "nama": "DEMI", "pangkalan": "SAVANA"},
@@ -143,7 +143,7 @@
 {"token" : "142", "nama": "IYANG AMBON", "pangkalan": "SEKTOR C"},
 {"token" : "143", "nama": "FAHRUDIN", "pangkalan": "KB"},
 {"token" : "144", "nama": "TETEN", "pangkalan": "FREELANCE"},
-{"token" : "145", "nama": "BANI", "pangkalan": "ASR"},
+{"token" : "145", "nama": "BENI", "pangkalan": "NGOPAS"},
 {"token" : "146", "nama": "JAJAT", "pangkalan": "ADC"},
 {"token" : "147", "nama": "HAMZAH", "pangkalan": "FAMILY"},
 {"token" : "148", "nama": "RIDWAN", "pangkalan": "FREELANCE"},
@@ -1041,7 +1041,7 @@
 {"token" : "1043", "nama": "DADI", "pangkalan": "KB"},
 {"token" : "1044", "nama": "IRFAN", "pangkalan": "FAMILY PONCORAN"},
 {"token" : "1045", "nama": "UCOK", "pangkalan": "JKT"},
-{"token" : "1046", "nama": "YADI KACAMATA", "pangkalan": "FREELANCE"},
+{"token" : "1046", "nama": "YADI KACAMATA", "pangkalan": "SAVANA"},
 {"token" : "1047", "nama": "USMAN USEK", "pangkalan": "JABAL AHDAR"},
 {"token" : "1048", "nama": "ARIS", "pangkalan": "SK"},
 {"token" : "1049", "nama": "HERMANSYAH", "pangkalan": "JABAL AHDAR"},
@@ -1221,6 +1221,10 @@
 {"token" : "1223", "nama": "TATANG", "pangkalan": "BEDOG LOCOT"},
 {"token" : "1220", "nama": "FARHAN", "pangkalan": "IGP"},
 {"token" : "1219", "nama": "HARYANTO", "pangkalan": "AMANAH HOLIDAY"},
-{"token" : "1222", "nama": "MARWAN", "pangkalan": "SDS"}
+{"token" : "1222", "nama": "MARWAN", "pangkalan": "SDS"},
+{"token" : "1226", "nama": "H OBENG", "pangkalan": "JUNIOR"},
+{"token" : "1229", "nama": "NURDIN", "pangkalan": "FREELANCE"},
+{"token" : "1227", "nama": "H BUDI", "pangkalan": "HPI"},
+{"token" : "1228", "nama": "RIAN", "pangkalan": "SEKTOR C"}
 ]
 
