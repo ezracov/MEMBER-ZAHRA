@@ -863,7 +863,7 @@
 {"token" : "864", "nama": "RAHMAN", "pangkalan": "KGWM"},
 {"token" : "865", "nama": "ADI SEVA", "pangkalan": "BBS"},
 {"token" : "866", "nama": "TAUFIK ISMAIL", "pangkalan": "BATAVIA"},
-{"token" : "867", "nama": "DIDI MIRIP CAKIM", "pangkalan": "FREELANCE"},
+{"token" : "867", "nama": "DIDI MIRIP CAKIM", "pangkalan": "X ONE"},
 {"token" : "868", "nama": "HASAN", "pangkalan": "JKT"},
 {"token" : "869", "nama": "DODI", "pangkalan": "SGA"},
 {"token" : "870", "nama": "MIFTAH", "pangkalan": "FMID"},
@@ -1225,6 +1225,15 @@
 {"token" : "1226", "nama": "H OBENG", "pangkalan": "JUNIOR"},
 {"token" : "1229", "nama": "NURDIN", "pangkalan": "FREELANCE"},
 {"token" : "1227", "nama": "H BUDI", "pangkalan": "HPI"},
-{"token" : "1228", "nama": "RIAN", "pangkalan": "SEKTOR C"}
+{"token" : "1228", "nama": "RIAN", "pangkalan": "SEKTOR C"},
+{"token" : "1233", "nama": "MIFTAH", "pangkalan": "ALMAWADA"},
+{"token" : "1231", "nama": "SUHENDI", "pangkalan": "KGWM"},
+{"token" : "1232", "nama": "DEDE ISKANDAR", "pangkalan": "BGC"},
+{"token" : "1230", "nama": "DILAH", "pangkalan": "SEKTOR C"},
+{"token" : "1234", "nama": "ACIL", "pangkalan": "SGA"},
+{"token" : "1235", "nama": "JENAL", "pangkalan": "JDC"},
+{"token" : "1236", "nama": "ABU ZAELANI", "pangkalan": "FREELANCE"},
+{"token" : "1237", "nama": "TOPIK", "pangkalan": "FREELANCE"},
+{"token" : "1238", "nama": "MAIL", "pangkalan": "JKT"}
 ]
 
