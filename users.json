@@ -267,7 +267,7 @@
 {"token" : "266", "nama": "TEDI", "pangkalan": "IPPA"},
 {"token" : "267", "nama": "ISAM", "pangkalan": "HALLA INDONESIA"},
 {"token" : "268", "nama": "SADONG", "pangkalan": "FAMILY"},
-{"token" : "269", "nama": "IWAN", "pangkalan": "ALAKEFEK"},
+{"token" : "269", "nama": "IWAN", "pangkalan": "LABBAEK INDONESIA"},
 {"token" : "270", "nama": "ASEP", "pangkalan": "SAVANA"},
 {"token" : "271", "nama": "UCUP", "pangkalan": "SK"},
 {"token" : "272", "nama": "BUSRO", "pangkalan": "CRC 4"},
@@ -413,7 +413,7 @@
 {"token" : "412", "nama": "DACIM", "pangkalan": "CRC 2"},
 {"token" : "413", "nama": "ZAKI", "pangkalan": "CRC 1"},
 {"token" : "414", "nama": "HARYANTO", "pangkalan": "IPPA"},
-{"token" : "415", "nama": "MAULANA YUSUF", "pangkalan": "BGC"},
+{"token" : "415", "nama": "MAULANA YUSUF", "pangkalan": "BMG"},
 {"token" : "416", "nama": "HERI", "pangkalan": "AMANAH HOLIDAY"},
 {"token" : "417", "nama": "HAMZAH", "pangkalan": "FREELANCE"},
 {"token" : "418", "nama": "EKO G", "pangkalan": "FREELANCE"},
@@ -892,7 +892,7 @@
 {"token" : "893", "nama": "RIDWAN", "pangkalan": "FREELANCE"},
 {"token" : "894", "nama": "UDEN", "pangkalan": "BDHAZ"},
 {"token" : "896", "nama": "WAHYU", "pangkalan": "AL FARUQ"},
-{"token" : "897", "nama": "HADLI", "pangkalan": "FARHANA"},
+{"token" : "897", "nama": "HADLI", "pangkalan": "MS"},
 {"token" : "898", "nama": "SOBUR", "pangkalan": "PPGC"},
 {"token" : "899", "nama": "DILAH", "pangkalan": "FREELANCE"},
 {"token" : "900", "nama": "MIFTAH", "pangkalan": "STT"},
@@ -1234,6 +1234,12 @@
 {"token" : "1235", "nama": "JENAL", "pangkalan": "JDC"},
 {"token" : "1236", "nama": "ABU ZAELANI", "pangkalan": "FREELANCE"},
 {"token" : "1237", "nama": "TOPIK", "pangkalan": "FREELANCE"},
-{"token" : "1238", "nama": "MAIL", "pangkalan": "JKT"}
+{"token" : "1238", "nama": "MAIL", "pangkalan": "JKT"},
+{"token" : "1239", "nama": "MAS NURHADI", "pangkalan": "ALFARUQ"},
+{"token" : "1240", "nama": "RYAN", "pangkalan": "CRC 1"},
+{"token" : "1241", "nama": "MUHAMAD NUR", "pangkalan": "FREELANCE"},
+{"token" : "1242", "nama": "IDRIS", "pangkalan": "H2GU"},
+{"token" : "1244", "nama": "RITA", "pangkalan": "FREELANCE"},
+{"token" : "1243", "nama": "DANTO", "pangkalan": "SK"}
 ]
 

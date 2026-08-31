@@ -178,6 +178,15 @@
 {"token": "511", "nama": "H LILI", "pangkalan":"LF", "tanggal":"23/08/2026", "jenis":"TABUNGAN", "nilai":825000},
 {"token": "121", "nama": "SAHRUL R", "pangkalan":"SAHL TOUR", "tanggal":"23/08/2026", "jenis":"PINJAMAN", "nilai":200000},
 {"token": "532", "nama": "KODEL", "pangkalan":"JRC", "tanggal":"26/08/2026", "jenis":"TABUNGAN", "nilai":500000},
-{"token": "730", "nama": "FAISAL", "pangkalan":"PIONEER", "tanggal":"27/08/2026", "jenis":"TABUNGAN", "nilai":730000}
+{"token": "730", "nama": "FAISAL", "pangkalan":"PIONEER", "tanggal":"27/08/2026", "jenis":"TABUNGAN", "nilai":730000},
+{"token": "667", "nama": "BOGEL", "pangkalan":"PIONEER", "tanggal":"28/08/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "1233", "nama": "MIFTAH", "pangkalan":"ALMAWADA", "tanggal":"28/08/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "381", "nama": "HENDRA", "pangkalan":"SURKEN", "tanggal":"28/08/2026", "jenis":"TABUNGAN", "nilai":80000},
+{"token": "197", "nama": "LATIF", "pangkalan":"BMG", "tanggal":"28/08/2026", "jenis":"TABUNGAN", "nilai":610000},
+{"token": "444", "nama": "GUNDEL", "pangkalan":"BDHAZ", "tanggal":"29/08/2026", "jenis":"TABUNGAN", "nilai":60000},
+{"token": "270", "nama": "ASEP", "pangkalan":"SAVANA", "tanggal":"30/08/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "023", "nama": "ASEP COPLOX", "pangkalan":"GEROBAG", "tanggal":"30/08/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "122", "nama": "DEMI", "pangkalan":"SAVANA", "tanggal":"31/08/2026", "jenis":"PINJAMAN", "nilai":2000000},
+{"token": "749", "nama": "ARIF", "pangkalan":"NEWSTAR", "tanggal":"31/08/2026", "jenis":"TABUNGAN", "nilai":900000}
 ]
 
