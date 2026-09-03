@@ -187,6 +187,16 @@
 {"token": "270", "nama": "ASEP", "pangkalan":"SAVANA", "tanggal":"30/08/2026", "jenis":"TABUNGAN", "nilai":300000},
 {"token": "023", "nama": "ASEP COPLOX", "pangkalan":"GEROBAG", "tanggal":"30/08/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "122", "nama": "DEMI", "pangkalan":"SAVANA", "tanggal":"31/08/2026", "jenis":"PINJAMAN", "nilai":2000000},
-{"token": "749", "nama": "ARIF", "pangkalan":"NEWSTAR", "tanggal":"31/08/2026", "jenis":"TABUNGAN", "nilai":900000}
+{"token": "749", "nama": "ARIF", "pangkalan":"NEWSTAR", "tanggal":"31/08/2026", "jenis":"TABUNGAN", "nilai":900000},
+{"token": "340", "nama": "ZAKI", "pangkalan":"JDC", "tanggal":"01/09/2026", "jenis":"TABUNGAN", "nilai":30000},
+{"token": "478", "nama": "ARIF SURYA", "pangkalan":"JRC", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "426", "nama": "EKO ", "pangkalan":"FREELANCE", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":700000},
+{"token": "092", "nama": "JACK", "pangkalan":"JRC", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "337", "nama": "UJANG SAEFUDIN", "pangkalan":"SAHL TOUR", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":130000},
+{"token": "715", "nama": "AYI SAMSUDIN", "pangkalan":"BEDOG LOCOT", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":60000},
+{"token": "489", "nama": "CAMING", "pangkalan":"BDHAZ", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":600000},
+{"token": "563", "nama": "FATAH ex ASR", "pangkalan":"NGOPAS", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "095", "nama": "ARIS POPOK", "pangkalan":"JRC", "tanggal":"03/09/2026", "jenis":"TABUNGAN", "nilai":140000},
+{"token": "772", "nama": "GANDI", "pangkalan":"CRC 1", "tanggal":"03/09/2026", "jenis":"TABUNGAN", "nilai":500000}
 ]
 
