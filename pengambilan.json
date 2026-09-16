@@ -15,7 +15,7 @@
 {"token": "213", "nama": "AGUS", "pangkalan":"CRC 2", "tanggal":"16/04/2026", "jenis":"TABUNGAN", "nilai":300000},
 {"token": "340", "nama": "ZAKI", "pangkalan":"JDC", "tanggal":"17/04/2026", "jenis":"TABUNGAN", "nilai":300000},
 {"token": "122", "nama": "DEMI", "pangkalan":"SAVANA", "tanggal":"18/04/2026", "jenis":"TABUNGAN", "nilai":1500000},
-{"token": "130", "nama": "OSCAR", "pangkalan":"PPGC", "tanggal":"19/04/2026", "jenis":"TABUNGAN", "nilai":100000},
+{"token": "130", "nama": "OSCAR", "pangkalan":"PPGC", "tanggal":"19/04/2026", "jenis":"PINJAMAN", "nilai":100000},
 {"token": "298", "nama": "DARUS", "pangkalan":"NNC", "tanggal":"19/04/2026", "jenis":"TABUNGAN", "nilai":450000},
 {"token": "380", "nama": "SIGIT", "pangkalan":"FREELANCE", "tanggal":"24/04/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "174", "nama": "IYAN", "pangkalan":"JRC", "tanggal":"26/04/2026", "jenis":"TABUNGAN", "nilai":150000},
@@ -210,6 +210,17 @@
 {"token": "461", "nama": "ANDRI", "pangkalan":"CRC 2", "tanggal":"08/08/2026", "jenis":"TABUNGAN", "nilai":550000},
 {"token": "496", "nama": "H MUFI", "pangkalan":"ALAKEFEK", "tanggal":"09/09/2026", "jenis":"TABUNGAN", "nilai":25000},
 {"token": "035", "nama": "EMBING", "pangkalan":"JRC", "tanggal":"11/09/2026", "jenis":"TABUNGAN", "nilai":130000},
-{"token": "1280", "nama": "JAJANG", "pangkalan":"TR", "tanggal":"12/09/2026", "jenis":"TABUNGAN", "nilai":150000}
+{"token": "1280", "nama": "JAJANG", "pangkalan":"TR", "tanggal":"12/09/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"12/09/2026", "jenis":"TABUNGAN", "nilai":500000},
+{"token": "698", "nama": "JAY DEBI", "pangkalan":"OASIS", "tanggal":"12/09/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "549", "nama": "H ADE", "pangkalan":"NEWSTAR", "tanggal":"12/09/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "285", "nama": "RYAN", "pangkalan":"SK", "tanggal":"12/09/2026", "jenis":"TABUNGAN", "nilai":500000},
+{"token": "1094", "nama": "UYA", "pangkalan":"WHIFER", "tanggal":"14/09/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "1038", "nama": "P ADAM", "pangkalan":"FREELANCE", "tanggal":"14/09/2026", "jenis":"TABUNGAN", "nilai":350000},
+{"token": "275", "nama": "ERI", "pangkalan":"JRC", "tanggal":"14/09/2026", "jenis":"TABUNGAN", "nilai":710000},
+{"token": "1158", "nama": "FAHRI", "pangkalan":"SEKTOR C", "tanggal":"15/09/2026", "jenis":"TABUNGAN", "nilai":285000},
+{"token": "621", "nama": "DANDI", "pangkalan":"FREELANCE", "tanggal":"15/09/2026", "jenis":"TABUNGAN", "nilai":320000},
+{"token": "742", "nama": "MENEL", "pangkalan":"JDC", "tanggal":"15/09/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "072", "nama": "H MULYADI", "pangkalan":"FAMILY", "tanggal":"16/09/2026", "jenis":"TABUNGAN", "nilai":200000}
 ]
 
