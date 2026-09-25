@@ -1184,7 +1184,7 @@
 {"token" : "1186", "nama": "YAYAN", "pangkalan": "IPPA"},
 {"token" : "1187", "nama": "FARHADI", "pangkalan": "STT"},
 {"token" : "1188", "nama": "MAMAT KB", "pangkalan": "FREELANCE"},
-{"token" : "1189", "nama": "AZIS", "pangkalan": "SUBANG"},
+{"token" : "1189", "nama": "AZIS SUBANG", "pangkalan": "FREELANCE"},
 {"token" : "1190", "nama": "ZAKI", "pangkalan": "FARHANA"},
 {"token" : "1191", "nama": "AGUNG", "pangkalan": "BATAVIA"},
 {"token" : "1192", "nama": "ERI", "pangkalan": "KB"},
@@ -1288,6 +1288,14 @@
 {"token" : "1291", "nama": "ASEP", "pangkalan": "SULTAN GROUP"},
 {"token" : "1290", "nama": "USMAN", "pangkalan": "ALMAWADA"},
 {"token" : "1293", "nama": "IWAN", "pangkalan": "ARAHIM"},
-{"token" : "1292", "nama": "SOBIRIN", "pangkalan": "OASIS"}
+{"token" : "1292", "nama": "SOBIRIN", "pangkalan": "OASIS"},
+{"token" : "1294", "nama": "ABDUL SALAM", "pangkalan": "FMID"},
+{"token" : "1297", "nama": "CEPI", "pangkalan": "KGWM"},
+{"token" : "1296", "nama": "ABU ADIL", "pangkalan": "FARHANA"},
+{"token" : "1298", "nama": "MALIK", "pangkalan": "EXIST"},
+{"token" : "1299", "nama": "ATEP", "pangkalan": "LABAEK INDO"},
+{"token" : "1301", "nama": "FAIZ OJEG", "pangkalan": "FREELANCE"},
+{"token" : "1300", "nama": "A DANI", "pangkalan": "FREELANCE"},
+{"token" : "1295", "nama": "ICA", "pangkalan": "FREELANCE"}
 ]
 
