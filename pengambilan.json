@@ -242,6 +242,8 @@
 {"token": "616", "nama": "DODI", "pangkalan":"ADC", "tanggal":"24/09/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "325", "nama": "ARIF", "pangkalan":"LF", "tanggal":"24/09/2026", "jenis":"TABUNGAN", "nilai":195000},
 {"token": "486", "nama": "NANANG", "pangkalan":"CRC 2", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":350000},
-{"token": "742", "nama": "MENEL", "pangkalan":"JDC", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":200000}
+{"token": "742", "nama": "MENEL", "pangkalan":"JDC", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "096", "nama": "YOGI", "pangkalan":"BBS", "tanggal":"25/09/2026", "jenis":"PINJAMAN", "nilai":300000},
+{"token": "1048", "nama": "ARIS", "pangkalan":"SK", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":140000}
 ]
 

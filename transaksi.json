@@ -2042,7 +2042,7 @@
 {"token": "NON MEMBER", "nama": "NON MEMBER", "pangkalan":"NON MEMBER", "tanggal":"05/07/2026", "tabungan":0, "bonus":0},
 {"token": "530", "nama": "HENDRA", "pangkalan":"BLOK M", "tanggal":"06/07/2026", "tabungan":0, "bonus":1},
 {"token": "832", "nama": "PYTOK", "pangkalan":"ADC", "tanggal":"06/07/2026", "tabungan":80000, "bonus":0},
-{"token": "857", "nama": "ARI", "pangkalan":"PIONEER", "tanggal":"06/07/2026", "tabungan":50000, "bonus":0},
+{"token": "732", "nama": "ARI", "pangkalan":"PIONEER", "tanggal":"06/07/2026", "tabungan":50000, "bonus":0},
 {"token": "153", "nama": "HILMAN", "pangkalan":"FREELANCE", "tanggal":"06/07/2026", "tabungan":0, "bonus":1},
 {"token": "436", "nama": "IHSAN", "pangkalan":"DESTROY", "tanggal":"06/07/2026", "tabungan":0, "bonus":1},
 {"token": "754", "nama": "YADI", "pangkalan":"PANGRANGO HOLIDAY", "tanggal":"06/07/2026", "tabungan":0, "bonus":1},
@@ -4282,6 +4282,22 @@
 {"token": "059", "nama": "RENDI", "pangkalan":"JDC", "tanggal":"24/09/2026", "tabungan":120000, "bonus":1},
 {"token": "152", "nama": "NURSODIK", "pangkalan":"KAFILAH", "tanggal":"24/09/2026", "tabungan":0, "bonus":0},
 {"token": "351", "nama": "VIKI", "pangkalan":"SEKTOR C", "tanggal":"24/09/2026", "tabungan":0, "bonus":1},
-{"token": "NON MEMBER", "nama": "NON MEMBER", "pangkalan":"NON MEMBER", "tanggal":"24/09/2026", "tabungan":0, "bonus":0}
+{"token": "NON MEMBER", "nama": "NON MEMBER", "pangkalan":"NON MEMBER", "tanggal":"24/09/2026", "tabungan":0, "bonus":0},
+{"token": "427", "nama": "OPIK", "pangkalan":"OASIS", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "330", "nama": "ALFIN", "pangkalan":"JDC", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "282", "nama": "JAMIL", "pangkalan":"JRC", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "367", "nama": "P UJANG SUHERMAN", "pangkalan":"ALAKEFEK", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "234", "nama": "FAHRI", "pangkalan":"PESONA ALAM", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "1302", "nama": "PA ONIM", "pangkalan":"JKT", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "462", "nama": "IYUS DORAEMON", "pangkalan":"SDS", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "400", "nama": "ALI", "pangkalan":"PIONEER", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "NON MEMBER", "nama": "NON MEMBER", "pangkalan":"NON MEMBER", "tanggal":"25/09/2026", "tabungan":0, "bonus":0},
+{"token": "445", "nama": "H AGUS", "pangkalan":"SDS", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "518", "nama": "ADE", "pangkalan":"SAVANA", "tanggal":"25/09/2026", "tabungan":50000, "bonus":0},
+{"token": "280", "nama": "RYAN", "pangkalan":"H2GU", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "1303", "nama": "YASIR", "pangkalan":"FAMILY GOLF", "tanggal":"25/09/2026", "tabungan":0, "bonus":1},
+{"token": "269", "nama": "IWAN", "pangkalan":"LABBAEK INDONESIA", "tanggal":"25/09/2026", "tabungan":10000, "bonus":0},
+{"token": "533", "nama": "P HERI", "pangkalan":"ADC", "tanggal":"25/09/2026", "tabungan":0, "bonus":0},
+{"token": "NON MEMBER", "nama": "NON MEMBER", "pangkalan":"NON MEMBER", "tanggal":"25/09/2026", "tabungan":0, "bonus":0}
 ]
 
