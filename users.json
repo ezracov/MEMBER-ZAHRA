@@ -413,7 +413,7 @@
 {"token" : "412", "nama": "DACIM", "pangkalan": "CRC 2"},
 {"token" : "413", "nama": "ZAKI", "pangkalan": "CRC 1"},
 {"token" : "414", "nama": "HARYANTO", "pangkalan": "IPPA"},
-{"token" : "415", "nama": "MAULANA YUSUF", "pangkalan": "BMG"},
+{"token" : "415", "nama": "MAULANA YUSUF", "pangkalan": "BGC"},
 {"token" : "416", "nama": "HERI", "pangkalan": "AMANAH HOLIDAY"},
 {"token" : "417", "nama": "HAMZAH", "pangkalan": "FREELANCE"},
 {"token" : "418", "nama": "EKO G", "pangkalan": "FREELANCE"},
@@ -1098,7 +1098,7 @@
 {"token" : "1100", "nama": "ZAKI", "pangkalan": "PANGRANGO HOLIDAY"},
 {"token" : "1101", "nama": "FALDI", "pangkalan": "DRAMA WISATA"},
 {"token" : "1102", "nama": "ABDUL AZIS", "pangkalan": "JKT"},
-{"token" : "1103", "nama": "UDO", "pangkalan": "P2C"},
+{"token" : "1103", "nama": "UDO", "pangkalan": "WRC"},
 {"token" : "1104", "nama": "AJO", "pangkalan": "FREELANCE"},
 {"token" : "1105", "nama": "FAUZI MARHABA", "pangkalan": "BET ASPUR"},
 {"token" : "1106", "nama": "AGUS SUBARJA", "pangkalan": "FATNER FAMILY"},
@@ -1298,6 +1298,9 @@
 {"token" : "1300", "nama": "A DANI", "pangkalan": "FREELANCE"},
 {"token" : "1295", "nama": "ICA", "pangkalan": "FREELANCE"},
 {"token" : "1302", "nama": "PA ONIM", "pangkalan": "JKT"},
-{"token" : "1303", "nama": "YASIR", "pangkalan": "FAMILY GOLF"}
+{"token" : "1303", "nama": "YASIR", "pangkalan": "FAMILY GOLF"},
+{"token" : "1304", "nama": "HENDI", "pangkalan": "EXIST"},
+{"token" : "1305", "nama": "DEDE DAVIR", "pangkalan": "X ONE"},
+{"token" : "1306", "nama": "IRFAN", "pangkalan": "IGP"}
 ]
 

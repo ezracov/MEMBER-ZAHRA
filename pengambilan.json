@@ -244,6 +244,11 @@
 {"token": "486", "nama": "NANANG", "pangkalan":"CRC 2", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":350000},
 {"token": "742", "nama": "MENEL", "pangkalan":"JDC", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "096", "nama": "YOGI", "pangkalan":"BBS", "tanggal":"25/09/2026", "jenis":"PINJAMAN", "nilai":300000},
-{"token": "1048", "nama": "ARIS", "pangkalan":"SK", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":140000}
+{"token": "1048", "nama": "ARIS", "pangkalan":"SK", "tanggal":"25/09/2026", "jenis":"TABUNGAN", "nilai":140000},
+{"token": "304", "nama": "DANI", "pangkalan":"EXIST", "tanggal":"26/09/2026", "jenis":"TABUNGAN", "nilai":435000},
+{"token": "1020", "nama": "BURHAN", "pangkalan":"NEWSTAR", "tanggal":"26/09/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "264", "nama": "KOANG", "pangkalan":"NNC", "tanggal":"27/09/2026", "jenis":"TABUNGAN", "nilai":725000},
+{"token": "008", "nama": "HENDRA", "pangkalan":"JABAL AHDAR", "tanggal":"28/09/2026", "jenis":"TABUNGAN", "nilai":60000},
+{"token": "008", "nama": "HENDRA", "pangkalan":"JABAL AHDAR", "tanggal":"28/09/2026", "jenis":"TABUNGAN", "nilai":50000}
 ]
 
