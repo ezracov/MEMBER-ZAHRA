@@ -249,6 +249,9 @@
 {"token": "1020", "nama": "BURHAN", "pangkalan":"NEWSTAR", "tanggal":"26/09/2026", "jenis":"TABUNGAN", "nilai":400000},
 {"token": "264", "nama": "KOANG", "pangkalan":"NNC", "tanggal":"27/09/2026", "jenis":"TABUNGAN", "nilai":725000},
 {"token": "008", "nama": "HENDRA", "pangkalan":"JABAL AHDAR", "tanggal":"28/09/2026", "jenis":"TABUNGAN", "nilai":60000},
-{"token": "008", "nama": "HENDRA", "pangkalan":"JABAL AHDAR", "tanggal":"28/09/2026", "jenis":"TABUNGAN", "nilai":50000}
+{"token": "008", "nama": "HENDRA", "pangkalan":"JABAL AHDAR", "tanggal":"28/09/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "046", "nama": "HERDI", "pangkalan":"SAHL TOUR", "tanggal":"29/09/2026", "jenis":"PINJAMAN", "nilai":150000},
+{"token": "743", "nama": "SALIM", "pangkalan":"FREELANCE", "tanggal":"30/09/2026", "jenis":"PINJAMAN", "nilai":100000},
+{"token": "035", "nama": "EMBING", "pangkalan":"JRC", "tanggal":"30/09/2026", "jenis":"TABUNGAN", "nilai":60000}
 ]
 

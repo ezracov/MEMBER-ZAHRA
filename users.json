@@ -250,7 +250,7 @@
 {"token" : "249", "nama": "ENTEP", "pangkalan": "IPPA"},
 {"token" : "250", "nama": "YUSUF", "pangkalan": "BMG"},
 {"token" : "251", "nama": "BAKARA", "pangkalan": "BGC"},
-{"token" : "252", "nama": "KINOY", "pangkalan": "X ONE"},
+{"token" : "252", "nama": "KINOY", "pangkalan": "4G"},
 {"token" : "253", "nama": "UJ", "pangkalan": "IPPA"},
 {"token" : "254", "nama": "COMET", "pangkalan": "SAVANA"},
 {"token" : "255", "nama": "IWAN", "pangkalan": "CRC 2"},
@@ -1301,6 +1301,9 @@
 {"token" : "1303", "nama": "YASIR", "pangkalan": "FAMILY GOLF"},
 {"token" : "1304", "nama": "HENDI", "pangkalan": "EXIST"},
 {"token" : "1305", "nama": "DEDE DAVIR", "pangkalan": "X ONE"},
-{"token" : "1306", "nama": "IRFAN", "pangkalan": "IGP"}
+{"token" : "1306", "nama": "IRFAN", "pangkalan": "IGP"},
+{"token" : "1307", "nama": "INDRA", "pangkalan": "RANTAU"},
+{"token" : "1308", "nama": "RIKI", "pangkalan": "IPPA"},
+{"token" : "1309", "nama": "P ZUL", "pangkalan": "PPGC"}
 ]
 
