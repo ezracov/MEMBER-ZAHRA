@@ -252,6 +252,13 @@
 {"token": "008", "nama": "HENDRA", "pangkalan":"JABAL AHDAR", "tanggal":"28/09/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "046", "nama": "HERDI", "pangkalan":"SAHL TOUR", "tanggal":"29/09/2026", "jenis":"PINJAMAN", "nilai":150000},
 {"token": "743", "nama": "SALIM", "pangkalan":"FREELANCE", "tanggal":"30/09/2026", "jenis":"PINJAMAN", "nilai":100000},
-{"token": "035", "nama": "EMBING", "pangkalan":"JRC", "tanggal":"30/09/2026", "jenis":"TABUNGAN", "nilai":60000}
+{"token": "035", "nama": "EMBING", "pangkalan":"JRC", "tanggal":"30/09/2026", "jenis":"TABUNGAN", "nilai":60000},
+{"token": "045", "nama": "NOVA", "pangkalan":"SAVANA", "tanggal":"01/10/2026", "jenis":"TABUNGAN", "nilai":700000},
+{"token": "213", "nama": "AGUS", "pangkalan":"CRC 2", "tanggal":"01/10/2026", "jenis":"TABUNGAN", "nilai":500000},
+{"token": "1022", "nama": "GUNDIL", "pangkalan":"FREELANCE", "tanggal":"01/10/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "402", "nama": "ANGGI", "pangkalan":"BBS", "tanggal":"02/10/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "742", "nama": "MENEL", "pangkalan":"JDC", "tanggal":"04/10/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "981", "nama": "H BOKIR", "pangkalan":"ADC", "tanggal":"04/10/2026", "jenis":"TABUNGAN", "nilai":100000},
+{"token": "759", "nama": "AYUB", "pangkalan":"CRC 1", "tanggal":"04/10/2026", "jenis":"TABUNGAN", "nilai":170000}
 ]
 
