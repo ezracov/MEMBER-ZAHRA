@@ -880,7 +880,7 @@
 {"token" : "818", "nama": "HAJI SULE", "pangkalan": "DESTROY"},
 {"token" : "819", "nama": "H DODOL", "pangkalan": "KOMPAK"},
 {"token" : "821", "nama": "RIAN", "pangkalan": "WDS"},
-{"token" : "824", "nama": "DANI", "pangkalan": "PPGC"},
+{"token" : "824", "nama": "DANI", "pangkalan": "MDR"},
 {"token" : "827", "nama": "UJANG", "pangkalan": "BANDUNG"},
 {"token" : "836", "nama": "MUNIR", "pangkalan": "FAMILY ROMI"},
 {"token" : "838", "nama": "DAHONG", "pangkalan": "BMG"},
@@ -1309,6 +1309,15 @@
 {"token" : "1311", "nama": "OCIM", "pangkalan": "WHIFER"},
 {"token" : "1310", "nama": "RIFAN", "pangkalan": "FAMILY HABIBI"},
 {"token" : "1314", "nama": "HAERUL UMAM", "pangkalan": "HPI"},
-{"token" : "1313", "nama": "AGUS", "pangkalan": "FREELANCE"}
+{"token" : "1313", "nama": "AGUS", "pangkalan": "FREELANCE"},
+{"token" : "1317", "nama": "DADANG", "pangkalan": "TR"},
+{"token" : "1316", "nama": "IYAM", "pangkalan": "PANGRANGO HOLIDAY"},
+{"token" : "1315", "nama": "AGUS", "pangkalan": "BDHAZ"},
+{"token" : "1319", "nama": "SOHAN", "pangkalan": "FREELANCE"},
+{"token" : "1322", "nama": "ANWAR", "pangkalan": "BGC"},
+{"token" : "1323", "nama": "ABDULLAJ", "pangkalan": "H2GU"},
+{"token" : "1318", "nama": "WAWAN ABU ZAKI", "pangkalan": "FMID"},
+{"token" : "1320", "nama": "ALAN", "pangkalan": "FREELANCE"},
+{"token" : "1321", "nama": "ARAY", "pangkalan": "WISATA"}
 ]
 
