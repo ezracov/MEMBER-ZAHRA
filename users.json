@@ -105,7 +105,7 @@
 {"token" : "213", "nama": "AGUS", "pangkalan": "CRC 2"},
 {"token" : "227", "nama": "RIDWAN", "pangkalan": "SK"},
 {"token" : "231", "nama": "SAEFUL ROHMAN", "pangkalan": "ALHASAN"},
-{"token" : "233", "nama": "RIZKI OPIK", "pangkalan": "PPGC"},
+{"token" : "233", "nama": "RIZKI OPIK", "pangkalan": "FAMILY PONCORAN"},
 {"token" : "234", "nama": "FAHRI", "pangkalan": "PESONA ALAM"},
 {"token" : "246", "nama": "KIKIN", "pangkalan": "NEWSTAR"},
 {"token" : "250", "nama": "YUSUF", "pangkalan": "BMG"},
@@ -1318,6 +1318,13 @@
 {"token" : "1323", "nama": "ABDULLAJ", "pangkalan": "H2GU"},
 {"token" : "1318", "nama": "WAWAN ABU ZAKI", "pangkalan": "FMID"},
 {"token" : "1320", "nama": "ALAN", "pangkalan": "FREELANCE"},
-{"token" : "1321", "nama": "ARAY", "pangkalan": "WISATA"}
+{"token" : "1321", "nama": "ARAY", "pangkalan": "WISATA"},
+{"token" : "1324", "nama": "ASEP", "pangkalan": "JAMHUR"},
+{"token" : "1325", "nama": "ABU REHAN", "pangkalan": "IPPA"},
+{"token" : "1326", "nama": "DENA", "pangkalan": "FREELANCE"},
+{"token" : "1327", "nama": "FATHUR", "pangkalan": "SEKTOR C"},
+{"token" : "1330", "nama": "FAJRI", "pangkalan": "AL AKBAR"},
+{"token" : "1328", "nama": "ASEP SOPIAN", "pangkalan": "FREELANCE"},
+{"token" : "1329", "nama": "AMRAN", "pangkalan": "FREELANCE"}
 ]
 
