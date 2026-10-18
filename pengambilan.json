@@ -276,6 +276,13 @@
 {"token": "228", "nama": "ANDI", "pangkalan":"SK", "tanggal":"14/10/2026", "jenis":"PINJAMAN", "nilai":175000},
 {"token": "890", "nama": "JHON", "pangkalan":"JKT", "tanggal":"14/10/2026", "jenis":"TABUNGAN", "nilai":170000},
 {"token": "172", "nama": "DOYOK", "pangkalan":"JRC", "tanggal":"14/10/2026", "jenis":"TABUNGAN", "nilai":1500000},
-{"token": "413", "nama": "ZAKI", "pangkalan":"CRC 1", "tanggal":"14/10/2026", "jenis":"TABUNGAN", "nilai":150000}
+{"token": "413", "nama": "ZAKI", "pangkalan":"CRC 1", "tanggal":"14/10/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "317", "nama": "JANI", "pangkalan":"JRC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":280000},
+{"token": "1153", "nama": "YUNUS", "pangkalan":"NNC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":310000},
+{"token": "1322", "nama": "ANWAR", "pangkalan":"BGC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "742", "nama": "MENEL", "pangkalan":"JDC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":480000},
+{"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "094", "nama": "ALFIN", "pangkalan":"SK", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":350000},
+{"token": "957", "nama": "RAYHAN", "pangkalan":"JRC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":125000}
 ]
 
