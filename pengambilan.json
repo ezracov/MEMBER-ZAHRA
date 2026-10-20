@@ -283,6 +283,17 @@
 {"token": "742", "nama": "MENEL", "pangkalan":"JDC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":480000},
 {"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "094", "nama": "ALFIN", "pangkalan":"SK", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":350000},
-{"token": "957", "nama": "RAYHAN", "pangkalan":"JRC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":125000}
+{"token": "957", "nama": "RAYHAN", "pangkalan":"JRC", "tanggal":"18/10/2026", "jenis":"TABUNGAN", "nilai":125000},
+{"token": "492", "nama": "NURAENI", "pangkalan":"LF", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":750000},
+{"token": "271", "nama": "UCUP", "pangkalan":"SK", "tanggal":"20/10/2026", "jenis":"PINJAMAN", "nilai":200000},
+{"token": "298", "nama": "DARUS", "pangkalan":"NNC", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "213", "nama": "AGUS", "pangkalan":"CRC 2", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":320000},
+{"token": "220", "nama": "P GURU", "pangkalan":"BDHAZ", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":310000},
+{"token": "220", "nama": "P GURU", "pangkalan":"BDHAZ", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "246", "nama": "KIKIN", "pangkalan":"NEWSTAR", "tanggal":"20/10/2026", "jenis":"PINJAMAN", "nilai":200000},
+{"token": "114", "nama": "SANDI", "pangkalan":"PIONEER", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":535000},
+{"token": "285", "nama": "RYAN", "pangkalan":"SK", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":650000},
+{"token": "730", "nama": "FAISAL", "pangkalan":"PIONEER", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":350000},
+{"token": "381", "nama": "HENDRA", "pangkalan":"SURKEN", "tanggal":"20/10/2026", "jenis":"PINJAMAN", "nilai":200000}
 ]
 
