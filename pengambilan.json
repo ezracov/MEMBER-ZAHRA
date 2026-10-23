@@ -294,6 +294,7 @@
 {"token": "114", "nama": "SANDI", "pangkalan":"PIONEER", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":535000},
 {"token": "285", "nama": "RYAN", "pangkalan":"SK", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":650000},
 {"token": "730", "nama": "FAISAL", "pangkalan":"PIONEER", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":350000},
-{"token": "381", "nama": "HENDRA", "pangkalan":"SURKEN", "tanggal":"20/10/2026", "jenis":"PINJAMAN", "nilai":200000}
+{"token": "381", "nama": "HENDRA", "pangkalan":"SURKEN", "tanggal":"20/10/2026", "jenis":"PINJAMAN", "nilai":200000},
+{"token": "263", "nama": "JAYA", "pangkalan":"NNC", "tanggal":"23/10/2026", "jenis":"TABUNGAN", "nilai":1320000}
 ]
 
