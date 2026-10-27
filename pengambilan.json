@@ -295,6 +295,14 @@
 {"token": "285", "nama": "RYAN", "pangkalan":"SK", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":650000},
 {"token": "730", "nama": "FAISAL", "pangkalan":"PIONEER", "tanggal":"20/10/2026", "jenis":"TABUNGAN", "nilai":350000},
 {"token": "381", "nama": "HENDRA", "pangkalan":"SURKEN", "tanggal":"20/10/2026", "jenis":"PINJAMAN", "nilai":200000},
-{"token": "263", "nama": "JAYA", "pangkalan":"NNC", "tanggal":"23/10/2026", "jenis":"TABUNGAN", "nilai":1320000}
+{"token": "263", "nama": "JAYA", "pangkalan":"NNC", "tanggal":"23/10/2026", "jenis":"TABUNGAN", "nilai":1320000},
+{"token": "246", "nama": "KIKIN", "pangkalan":"NEWSTAR", "tanggal":"23/10/2026", "jenis":"PINJAMAN", "nilai":-100000},
+{"token": "402", "nama": "ANGGI", "pangkalan":"BBS", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "836", "nama": "MUNIR", "pangkalan":"FAMILY ROMI", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "731", "nama": "BENJO", "pangkalan":"PIONEER", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "013", "nama": "HENDI", "pangkalan":"4G", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "415", "nama": "MAULANA YUSUF", "pangkalan":"BGC", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":290000},
+{"token": "704", "nama": "ILHAM", "pangkalan":"SK", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "284", "nama": "CEPIH", "pangkalan":"NNC", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":70000}
 ]
 

@@ -474,7 +474,7 @@
 {"token" : "300", "nama": "ABU MUHAMAD", "pangkalan": "HPI"},
 {"token" : "304", "nama": "DANI", "pangkalan": "EXIST"},
 {"token" : "308", "nama": "BOGEL", "pangkalan": "EXIST"},
-{"token" : "310", "nama": "ABIDIN", "pangkalan": "FREELANCE"},
+{"token" : "310", "nama": "ABIDIN", "pangkalan": "SINAR ALAM"},
 {"token" : "319", "nama": "ARIF", "pangkalan": "4G"},
 {"token" : "323", "nama": "DOYOK", "pangkalan": "BDHAZ"},
 {"token" : "324", "nama": "DEDE SUTISNA", "pangkalan": "TR"},
@@ -1341,6 +1341,7 @@
 {"token" : "1336", "nama": "BERNAT", "pangkalan": "SHB"},
 {"token" : "1340", "nama": "DADANG", "pangkalan": "SB35"},
 {"token" : "1345", "nama": "H MULYADI", "pangkalan": "FREELANCE"},
-{"token" : "1346", "nama": "EDI", "pangkalan": "NEW FAMILY"}
+{"token" : "1346", "nama": "EDI", "pangkalan": "NEW FAMILY"},
+{"token" : "1347", "nama": "SADAM", "pangkalan": "SEKTOR C"}
 ]
 
