@@ -305,6 +305,19 @@
 {"token": "704", "nama": "ILHAM", "pangkalan":"SK", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "284", "nama": "CEPIH", "pangkalan":"NNC", "tanggal":"27/10/2026", "jenis":"TABUNGAN", "nilai":70000},
 {"token": "867", "nama": "DIDI MIRIP CAKIM", "pangkalan":"X ONE", "tanggal":"28/10/2026", "jenis":"TABUNGAN", "nilai":305000},
-{"token": "347", "nama": "H AZIS", "pangkalan":"WHIFER", "tanggal":"28/10/2026", "jenis":"TABUNGAN", "nilai":210000}
+{"token": "347", "nama": "H AZIS", "pangkalan":"WHIFER", "tanggal":"28/10/2026", "jenis":"TABUNGAN", "nilai":210000},
+{"token": "723", "nama": "RAMLI", "pangkalan":"FREELANCE", "tanggal":"28/10/2026", "jenis":"PINJAMAN", "nilai":100000},
+{"token": "659", "nama": "YUDI", "pangkalan":"ADC", "tanggal":"31/10/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "1226", "nama": "H OBENG", "pangkalan":"JUNIOR", "tanggal":"01/11/2026", "jenis":"TABUNGAN", "nilai":140000},
+{"token": "476", "nama": "AGUS ADI WIRYA", "pangkalan":"LF", "tanggal":"01/11/2026", "jenis":"PINJAMAN", "nilai":100000},
+{"token": "799", "nama": "MUJAHID", "pangkalan":"BGC", "tanggal":"01/11/2026", "jenis":"TABUNGAN", "nilai":800000},
+{"token": "267", "nama": "ISAM", "pangkalan":"HALLA INDONESIA", "tanggal":"01/11/2026", "jenis":"TABUNGAN", "nilai":850000},
+{"token": "921", "nama": "USEP", "pangkalan":"SEKTOR C", "tanggal":"22/10/2026", "jenis":"PINJAMAN", "nilai":50000},
+{"token": "347", "nama": "H AZIS", "pangkalan":"WHIFER", "tanggal":"02/11/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "304", "nama": "DANI", "pangkalan":"EXIST", "tanggal":"02/11/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "1011", "nama": "BAKRI", "pangkalan":"ASR", "tanggal":"03/11/2026", "jenis":"TABUNGAN", "nilai":350000},
+{"token": "037", "nama": "MAULANA", "pangkalan":"ASR", "tanggal":"04/11/2026", "jenis":"TABUNGAN", "nilai":200000},
+{"token": "298", "nama": "DARUS", "pangkalan":"NNC", "tanggal":"04/11/2026", "jenis":"TABUNGAN", "nilai":500000},
+{"token": "191", "nama": "H BABAS", "pangkalan":"JRC", "tanggal":"04/11/2026", "jenis":"TABUNGAN", "nilai":150000}
 ]
 
