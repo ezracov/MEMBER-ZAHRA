@@ -318,6 +318,10 @@
 {"token": "1011", "nama": "BAKRI", "pangkalan":"ASR", "tanggal":"03/11/2026", "jenis":"TABUNGAN", "nilai":350000},
 {"token": "037", "nama": "MAULANA", "pangkalan":"ASR", "tanggal":"04/11/2026", "jenis":"TABUNGAN", "nilai":200000},
 {"token": "298", "nama": "DARUS", "pangkalan":"NNC", "tanggal":"04/11/2026", "jenis":"TABUNGAN", "nilai":500000},
-{"token": "191", "nama": "H BABAS", "pangkalan":"JRC", "tanggal":"04/11/2026", "jenis":"TABUNGAN", "nilai":150000}
+{"token": "191", "nama": "H BABAS", "pangkalan":"JRC", "tanggal":"04/11/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "450", "nama": "H DAYAT", "pangkalan":"PALACE", "tanggal":"05/11/2026", "jenis":"TABUNGAN", "nilai":400000},
+{"token": "156", "nama": "ARIF", "pangkalan":"GHIBET", "tanggal":"05/11/2026", "jenis":"TABUNGAN", "nilai":660000},
+{"token": "623", "nama": "RANI", "pangkalan":"JRC", "tanggal":"06/11/2026", "jenis":"TABUNGAN", "nilai":100000},
+{"token": "623", "nama": "RANI", "pangkalan":"JRC", "tanggal":"06/11/2026", "jenis":"PINJAMAN", "nilai":200000}
 ]
 

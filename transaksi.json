@@ -4248,7 +4248,7 @@
 {"token": "477", "nama": "ZAKI", "pangkalan":"LF", "tanggal":"23/09/2026", "tabungan":0, "bonus":1},
 {"token": "037", "nama": "MAULANA", "pangkalan":"ASR", "tanggal":"23/09/2026", "tabungan":150000, "bonus":1},
 {"token": "103", "nama": "AJUM", "pangkalan":"JRC", "tanggal":"23/09/2026", "tabungan":50000, "bonus":0},
-{"token": "156", "nama": "ARIF", "pangkalan":"GHIBET", "tanggal":"22/09/2026", "tabungan":0, "bonus":0},
+{"token": "156", "nama": "ARIF", "pangkalan":"GHIBET", "tanggal":"22/09/2026", "tabungan":50000, "bonus":0},
 {"token": "138", "nama": "ALEX", "pangkalan":"SK", "tanggal":"22/09/2026", "tabungan":200000, "bonus":1},
 {"token": "269", "nama": "IWAN", "pangkalan":"LABBAEK INDONESIA", "tanggal":"22/09/2026", "tabungan":150000, "bonus":1},
 {"token": "970", "nama": "USEP", "pangkalan":"JDC", "tanggal":"22/09/2026", "tabungan":200000, "bonus":1},
