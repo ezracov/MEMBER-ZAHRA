@@ -322,6 +322,13 @@
 {"token": "450", "nama": "H DAYAT", "pangkalan":"PALACE", "tanggal":"05/11/2026", "jenis":"TABUNGAN", "nilai":400000},
 {"token": "156", "nama": "ARIF", "pangkalan":"GHIBET", "tanggal":"05/11/2026", "jenis":"TABUNGAN", "nilai":660000},
 {"token": "623", "nama": "RANI", "pangkalan":"JRC", "tanggal":"06/11/2026", "jenis":"TABUNGAN", "nilai":100000},
-{"token": "623", "nama": "RANI", "pangkalan":"JRC", "tanggal":"06/11/2026", "jenis":"PINJAMAN", "nilai":200000}
+{"token": "623", "nama": "RANI", "pangkalan":"JRC", "tanggal":"06/11/2026", "jenis":"PINJAMAN", "nilai":200000},
+{"token": "638", "nama": "IYUK", "pangkalan":"CRC 2", "tanggal":"07/11/2026", "jenis":"PINJAMAN", "nilai":1000000},
+{"token": "522", "nama": "MISBAH", "pangkalan":"SAHL TOUR", "tanggal":"07/11/2026", "jenis":"TABUNGAN", "nilai":470000},
+{"token": "922", "nama": "OPIK", "pangkalan":"PANGRANGO HOLIDAY", "tanggal":"08/11/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "489", "nama": "CAMING", "pangkalan":"BDHAZ", "tanggal":"08/11/2026", "jenis":"TABUNGAN", "nilai":70000},
+{"token": "248", "nama": "SOLIHIN", "pangkalan":"OASIS", "tanggal":"08/11/2026", "jenis":"TABUNGAN", "nilai":40000},
+{"token": "544", "nama": "ILHAM JHON", "pangkalan":"BDHAZ", "tanggal":"08/11/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "212", "nama": "RINA", "pangkalan":"IPPA", "tanggal":"09/11/2026", "jenis":"TABUNGAN", "nilai":1700000}
 ]
 

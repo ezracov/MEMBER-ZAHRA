@@ -820,7 +820,7 @@
 {"token" : "565", "nama": "AIMAN", "pangkalan": "SDS"},
 {"token" : "568", "nama": "JUDIN", "pangkalan": "OASIS"},
 {"token" : "569", "nama": "RIDWAN IDIS", "pangkalan": "ADC"},
-{"token" : "573", "nama": "ENTIS", "pangkalan": "SAVANA"},
+{"token" : "573", "nama": "ENTIS", "pangkalan": "NEWSTAR"},
 {"token" : "577", "nama": "INDRA", "pangkalan": "DESTROY"},
 {"token" : "578", "nama": "OYAN", "pangkalan": "DESTROY"},
 {"token" : "580", "nama": "NURIL", "pangkalan": "GN JATI"},
@@ -1357,6 +1357,8 @@
 {"token" : "1359", "nama": "AGUS", "pangkalan": "MS"},
 {"token" : "1360", "nama": "DESI", "pangkalan": "LF"},
 {"token" : "1362", "nama": "P JAJA", "pangkalan": "SAVANA"},
-{"token" : "1361", "nama": "TAUFIK", "pangkalan": "BATAVIA"}
+{"token" : "1361", "nama": "TAUFIK", "pangkalan": "BATAVIA"},
+{"token" : "1363", "nama": "HABIB LUTHFI", "pangkalan": "FREELANCE"},
+{"token" : "1364", "nama": "RUDI", "pangkalan": "SEKTOR C"}
 ]
 
