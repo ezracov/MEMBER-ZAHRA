@@ -4196,7 +4196,7 @@
 {"token": "NON MEMBER", "nama": "NON MEMBER", "pangkalan":"NON MEMBER", "tanggal":"19/09/2026", "tabungan":0, "bonus":0},
 {"token": "1295", "nama": "ICA", "pangkalan":"FREELANCE", "tanggal":"20/09/2026", "tabungan":0, "bonus":1},
 {"token": "956", "nama": "ASEP ICIH", "pangkalan":"P2C", "tanggal":"20/09/2026", "tabungan":0, "bonus":1},
-{"token": "645", "nama": "FAWAZ", "pangkalan":"NNC", "tanggal":"20/09/2026", "tabungan":0, "bonus":0},
+{"token": "645", "nama": "FAWAZ", "pangkalan":"NNC", "tanggal":"20/09/2026", "tabungan":50000, "bonus":0},
 {"token": "055", "nama": "DEDE ACIL", "pangkalan":"BATAVIA", "tanggal":"20/09/2026", "tabungan":50000, "bonus":1},
 {"token": "400", "nama": "ALI", "pangkalan":"PIONEER", "tanggal":"20/09/2026", "tabungan":1000000, "bonus":1},
 {"token": "1148", "nama": "AZIS", "pangkalan":"OASIS", "tanggal":"20/09/2026", "tabungan":30000, "bonus":0},
