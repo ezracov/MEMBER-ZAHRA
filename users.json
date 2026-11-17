@@ -485,7 +485,7 @@
 {"token" : "182", "nama": "ZIDAN", "pangkalan": "BEDOG LOCOT"},
 {"token" : "183", "nama": "RAJAB", "pangkalan": "JDC"},
 {"token" : "187", "nama": "BP OLOT", "pangkalan": "NEWSTAR"},
-{"token" : "196", "nama": "HERMAN", "pangkalan": "ANAZMA"},
+{"token" : "196", "nama": "HERMAN", "pangkalan": "FREELANCE"},
 {"token" : "200", "nama": "JENAL", "pangkalan": "SAVANA"},
 {"token" : "216", "nama": "IPANK", "pangkalan": "PARTNER"},
 {"token" : "217", "nama": "DASEP", "pangkalan": "ANAZMA"},
@@ -1124,7 +1124,7 @@
 {"token" : "1260", "nama": "JONO", "pangkalan": "FREELANCE"},
 {"token" : "1264", "nama": "YOGA", "pangkalan": "ALJAZEERA"},
 {"token" : "1266", "nama": "P JENAL", "pangkalan": "FREELANCE"},
-{"token" : "1263", "nama": "P JAJANG", "pangkalan": "KB"},
+{"token" : "1263", "nama": "P JAJANG", "pangkalan": "PPGC"},
 {"token" : "1267", "nama": "SULE", "pangkalan": "RANTAU"},
 {"token" : "1268", "nama": "DANI NUR", "pangkalan": "EXIST"},
 {"token" : "1271", "nama": "HILMAN", "pangkalan": "OASIS"},
@@ -1359,6 +1359,15 @@
 {"token" : "1362", "nama": "P JAJA", "pangkalan": "SAVANA"},
 {"token" : "1361", "nama": "TAUFIK", "pangkalan": "BATAVIA"},
 {"token" : "1363", "nama": "HABIB LUTHFI", "pangkalan": "FREELANCE"},
-{"token" : "1364", "nama": "RUDI", "pangkalan": "SEKTOR C"}
+{"token" : "1364", "nama": "RUDI", "pangkalan": "SEKTOR C"},
+{"token" : "1367", "nama": "AHMAD MARUF", "pangkalan": "MANDIRI SAFAR"},
+{"token" : "1365", "nama": "AANG", "pangkalan": "X ONE"},
+{"token" : "1366", "nama": "DEDE KUSNADI", "pangkalan": "BATAVIA"},
+{"token" : "1368", "nama": "AZAM", "pangkalan": "FREELANCE"},
+{"token" : "1369", "nama": "ANDI", "pangkalan": "JKT"},
+{"token" : "1371", "nama": "DASEP", "pangkalan": "DESTROY"},
+{"token" : "1370", "nama": "WAHID", "pangkalan": "STT"},
+{"token" : "1372", "nama": "AYI", "pangkalan": "SAMPAY"},
+{"token" : "1373", "nama": "GIYANTO", "pangkalan": "ALAKEFEK"}
 ]
 

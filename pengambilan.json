@@ -329,6 +329,19 @@
 {"token": "489", "nama": "CAMING", "pangkalan":"BDHAZ", "tanggal":"08/11/2026", "jenis":"TABUNGAN", "nilai":70000},
 {"token": "248", "nama": "SOLIHIN", "pangkalan":"OASIS", "tanggal":"08/11/2026", "jenis":"TABUNGAN", "nilai":40000},
 {"token": "544", "nama": "ILHAM JHON", "pangkalan":"BDHAZ", "tanggal":"08/11/2026", "jenis":"TABUNGAN", "nilai":150000},
-{"token": "212", "nama": "RINA", "pangkalan":"IPPA", "tanggal":"09/11/2026", "jenis":"TABUNGAN", "nilai":1700000}
+{"token": "212", "nama": "RINA", "pangkalan":"IPPA", "tanggal":"09/11/2026", "jenis":"TABUNGAN", "nilai":1700000},
+{"token": "155", "nama": "ARIS", "pangkalan":"LF", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":2000000},
+{"token": "948", "nama": "P BIBIH", "pangkalan":"WHIFER", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":250000},
+{"token": "511", "nama": "H LILI", "pangkalan":"LF", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":300000},
+{"token": "429", "nama": "AMIN", "pangkalan":"IPPA", "tanggal":"17/11/2026", "jenis":"PINJAMAN", "nilai":100000},
+{"token": "370", "nama": "H AHMAD", "pangkalan":"SDS", "tanggal":"17/11/2026", "jenis":"PINJAMAN", "nilai":150000},
+{"token": "645", "nama": "FAWAZ", "pangkalan":"NNC", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":395000},
+{"token": "269", "nama": "IWAN", "pangkalan":"LABBAEK INDONESIA", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":1715000},
+{"token": "548", "nama": "ARIF", "pangkalan":"JRC", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":50000},
+{"token": "198", "nama": "MONCES", "pangkalan":"ARAHIM", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":100000},
+{"token": "555", "nama": "UDIN", "pangkalan":"EXIST", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":770000},
+{"token": "667", "nama": "BOGEL", "pangkalan":"PIONEER", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "381", "nama": "HENDRA", "pangkalan":"SURKEN", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "419", "nama": "YADI MULYADI", "pangkalan":"KGWM", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":570000}
 ]
 
