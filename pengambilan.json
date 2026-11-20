@@ -67,7 +67,7 @@
 {"token": "603", "nama": "ABAS", "pangkalan":"PIONEER", "tanggal":"05/06/2026", "jenis":"PINJAMAN", "nilai":250000},
 {"token": "059", "nama": "RENDI", "pangkalan":"JDC", "tanggal":"05/06/2026", "jenis":"TABUNGAN", "nilai":70000},
 {"token": "177", "nama": "SAKUY", "pangkalan":"EXIST", "tanggal":"17/05/2026", "jenis":"TABUNGAN", "nilai":700000},
-{"token": "055", "nama": "DEDE ACIL", "pangkalan":"BATAVIA", "tanggal":"07/06/2026", "jenis":"TABUNGAN", "nilai":120000},
+{"token": "055", "nama": "DEDE ACIL", "pangkalan":"BDC", "tanggal":"07/06/2026", "jenis":"TABUNGAN", "nilai":120000},
 {"token": "532", "nama": "KODEL", "pangkalan":"JRC", "tanggal":"07/06/2026", "jenis":"TABUNGAN", "nilai":220000},
 {"token": "692", "nama": "ALI CIMOY", "pangkalan":"DESTROY", "tanggal":"08/06/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "072", "nama": "H MULYADI", "pangkalan":"FAMILY", "tanggal":"08/06/2026", "jenis":"TABUNGAN", "nilai":400000},
@@ -139,7 +139,7 @@
 {"token": "1062", "nama": "OJON", "pangkalan":"FREELANCE", "tanggal":"28/07/2026", "jenis":"TABUNGAN", "nilai":120000},
 {"token": "211", "nama": "ALDO", "pangkalan":"IPPA", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":50000},
 {"token": "180", "nama": "RAYAN", "pangkalan":"BET ASPUR", "tanggal":"29/07/2026", "jenis":"TABUNGAN", "nilai":25000},
-{"token": "055", "nama": "DEDE ACIL", "pangkalan":"BATAVIA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":260000},
+{"token": "055", "nama": "DEDE ACIL", "pangkalan":"BDC", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":260000},
 {"token": "414", "nama": "HARYANTO", "pangkalan":"IPPA", "tanggal":"31/07/2026", "jenis":"TABUNGAN", "nilai":125000},
 {"token": "923", "nama": "BOYAN", "pangkalan":"ALAKEFEK", "tanggal":"01/08/2026", "jenis":"TABUNGAN", "nilai":275000},
 {"token": "301", "nama": "ARUL", "pangkalan":"JKT", "tanggal":"01/08/2026", "jenis":"TABUNGAN", "nilai":50000},
@@ -342,6 +342,10 @@
 {"token": "555", "nama": "UDIN", "pangkalan":"EXIST", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":770000},
 {"token": "667", "nama": "BOGEL", "pangkalan":"PIONEER", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":150000},
 {"token": "381", "nama": "HENDRA", "pangkalan":"SURKEN", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":150000},
-{"token": "419", "nama": "YADI MULYADI", "pangkalan":"KGWM", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":570000}
+{"token": "419", "nama": "YADI MULYADI", "pangkalan":"KGWM", "tanggal":"17/11/2026", "jenis":"TABUNGAN", "nilai":570000},
+{"token": "022", "nama": "RISMANA", "pangkalan":"PIONEER", "tanggal":"21/11/2026", "jenis":"TABUNGAN", "nilai":930000},
+{"token": "997", "nama": "DAYAT", "pangkalan":"NNC", "tanggal":"21/11/2026", "jenis":"TABUNGAN", "nilai":320000},
+{"token": "036", "nama": "DENI KOKO", "pangkalan":"EXIST", "tanggal":"21/11/2026", "jenis":"TABUNGAN", "nilai":2000000},
+{"token": "544", "nama": "ILHAM JHON", "pangkalan":"BDHAZ", "tanggal":"21/11/2026", "jenis":"PINJAMAN", "nilai":300000}
 ]
 
