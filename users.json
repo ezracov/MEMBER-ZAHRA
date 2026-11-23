@@ -82,7 +82,7 @@
 {"token" : "081", "nama": "SAEFUL HENDRI", "pangkalan": "TR"},
 {"token" : "082", "nama": "H RIKI", "pangkalan": "BLOK M"},
 {"token" : "083", "nama": "ROHIM", "pangkalan": "FMID"},
-{"token" : "084", "nama": "CINER", "pangkalan": "H2GU"},
+{"token" : "084", "nama": "SULAEMAN CINER", "pangkalan": "H2GU"},
 {"token" : "085", "nama": "YANA", "pangkalan": "FAMILY"},
 {"token" : "086", "nama": "ABU SULTON", "pangkalan": "BMG"},
 {"token" : "087", "nama": "H YUSUF", "pangkalan": "ALAKEFEK"},
@@ -1380,6 +1380,8 @@
 {"token" : "1383", "nama": "AKMAL", "pangkalan": "OASIS"},
 {"token" : "1382", "nama": "P ENDANG", "pangkalan": "WHIFER"},
 {"token" : "1384", "nama": "P SOPIAN", "pangkalan": "FREELANCE"},
-{"token" : "1385", "nama": "M AJI", "pangkalan": "FREELANCE"}
+{"token" : "1385", "nama": "M AJI", "pangkalan": "FREELANCE"},
+{"token" : "1387", "nama": "ALWI", "pangkalan": "TRIPLE S"},
+{"token" : "1386", "nama": "P RAHMAT", "pangkalan": "ARAHIM"}
 ]
 

@@ -347,6 +347,8 @@
 {"token": "997", "nama": "DAYAT", "pangkalan":"NNC", "tanggal":"21/11/2026", "jenis":"TABUNGAN", "nilai":320000},
 {"token": "036", "nama": "DENI KOKO", "pangkalan":"EXIST", "tanggal":"21/11/2026", "jenis":"TABUNGAN", "nilai":2000000},
 {"token": "544", "nama": "ILHAM JHON", "pangkalan":"BDHAZ", "tanggal":"21/11/2026", "jenis":"PINJAMAN", "nilai":300000},
-{"token": "659", "nama": "YUDI", "pangkalan":"ADC", "tanggal":"22/11/2026", "jenis":"TABUNGAN", "nilai":150000}
+{"token": "659", "nama": "YUDI", "pangkalan":"ADC", "tanggal":"22/11/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "055", "nama": "DEDE ACIL", "pangkalan":"BDC", "tanggal":"23/11/2026", "jenis":"TABUNGAN", "nilai":310000},
+{"token": "670", "nama": "IRWANSYAH", "pangkalan":"SK", "tanggal":"23/11/2026", "jenis":"TABUNGAN", "nilai":575000}
 ]
 
