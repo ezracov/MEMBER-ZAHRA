@@ -394,7 +394,7 @@
 {"token" : "393", "nama": "H DODI", "pangkalan": "JRC"},
 {"token" : "394", "nama": "AZI", "pangkalan": "WDS"},
 {"token" : "395", "nama": "FIKRI", "pangkalan": "CRC 2"},
-{"token" : "396", "nama": "ASEP RIDWAN", "pangkalan": "FREELANCE"},
+{"token" : "396", "nama": "ASEP RIDWAN", "pangkalan": "KB"},
 {"token" : "397", "nama": "H HOLIL", "pangkalan": "SGA"},
 {"token" : "398", "nama": "SALEH", "pangkalan": "SGA"},
 {"token" : "399", "nama": "USMAN", "pangkalan": "H2GU"},
@@ -561,7 +561,7 @@
 {"token" : "560", "nama": "ROFAL", "pangkalan": "EXIST"},
 {"token" : "561", "nama": "P CECEP", "pangkalan": "SAWAG ADAM"},
 {"token" : "562", "nama": "HIDAYAT", "pangkalan": "SB35"},
-{"token" : "563", "nama": "FATAH ex ASR", "pangkalan": "NGOPAS"},
+{"token" : "563", "nama": "FATAH", "pangkalan": "FAMILY HABIBI"},
 {"token" : "564", "nama": "FERI", "pangkalan": "NEWSTAR"},
 {"token" : "565", "nama": "AIMAN", "pangkalan": "SDS"},
 {"token" : "566", "nama": "AYAH BADAR", "pangkalan": "WDS"},
@@ -1382,6 +1382,9 @@
 {"token" : "1384", "nama": "P SOPIAN", "pangkalan": "FREELANCE"},
 {"token" : "1385", "nama": "M AJI", "pangkalan": "FREELANCE"},
 {"token" : "1387", "nama": "ALWI", "pangkalan": "TRIPLE S"},
-{"token" : "1386", "nama": "P RAHMAT", "pangkalan": "ARAHIM"}
+{"token" : "1386", "nama": "P RAHMAT", "pangkalan": "ARAHIM"},
+{"token" : "1388", "nama": "UJANG JAJAT", "pangkalan": "PPGC"},
+{"token" : "1390", "nama": "UMAR", "pangkalan": "KPCP REBORN"},
+{"token" : "1389", "nama": "SADUL", "pangkalan": "BEDOG LOCOT"}
 ]
 

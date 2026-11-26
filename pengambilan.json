@@ -195,7 +195,7 @@
 {"token": "337", "nama": "UJANG SAEFUDIN", "pangkalan":"SAHL TOUR", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":130000},
 {"token": "715", "nama": "AYI SAMSUDIN", "pangkalan":"BEDOG LOCOT", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":60000},
 {"token": "489", "nama": "CAMING", "pangkalan":"BDHAZ", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":600000},
-{"token": "563", "nama": "FATAH ex ASR", "pangkalan":"NGOPAS", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":150000},
+{"token": "563", "nama": "FATAH", "pangkalan":"FAMILY HABIBI", "tanggal":"02/09/2026", "jenis":"TABUNGAN", "nilai":150000},
 {"token": "095", "nama": "ARIS POPOK", "pangkalan":"JRC", "tanggal":"03/09/2026", "jenis":"TABUNGAN", "nilai":140000},
 {"token": "772", "nama": "GANDI", "pangkalan":"CRC 1", "tanggal":"03/09/2026", "jenis":"TABUNGAN", "nilai":500000},
 {"token": "397", "nama": "H HOLIL", "pangkalan":"SGA", "tanggal":"03/09/2026", "jenis":"TABUNGAN", "nilai":550000},
@@ -349,6 +349,9 @@
 {"token": "544", "nama": "ILHAM JHON", "pangkalan":"BDHAZ", "tanggal":"21/11/2026", "jenis":"PINJAMAN", "nilai":300000},
 {"token": "659", "nama": "YUDI", "pangkalan":"ADC", "tanggal":"22/11/2026", "jenis":"TABUNGAN", "nilai":150000},
 {"token": "055", "nama": "DEDE ACIL", "pangkalan":"BDC", "tanggal":"23/11/2026", "jenis":"TABUNGAN", "nilai":310000},
-{"token": "670", "nama": "IRWANSYAH", "pangkalan":"SK", "tanggal":"23/11/2026", "jenis":"TABUNGAN", "nilai":575000}
+{"token": "670", "nama": "IRWANSYAH", "pangkalan":"SK", "tanggal":"23/11/2026", "jenis":"TABUNGAN", "nilai":575000},
+{"token": "341", "nama": "RIKO", "pangkalan":"BLOK M", "tanggal":"26/11/2026", "jenis":"PINJAMAN", "nilai":100000},
+{"token": "439", "nama": "AKI OMPONG", "pangkalan":"ALFATHAN", "tanggal":"26/11/2026", "jenis":"TABUNGAN", "nilai":580000},
+{"token": "1321", "nama": "ARAY", "pangkalan":"WISATA", "tanggal":"26/11/2026", "jenis":"TABUNGAN", "nilai":50000}
 ]
 
